@@ -1,0 +1,101 @@
+store_id,food_category,food_item,expiry_date,todays_date,quantity,unit
+1,Canned,Vegetable Soup,2026-01-15,2025-04-07,38,cans
+1,Frozen,Pizza,2026-02-24,2025-04-07,34,units
+1,Meat,Ground Beef,2025-04-13,2025-04-07,2,packages
+1,Frozen,Frozen Berries,2025-10-04,2025-04-07,5,packages
+1,Bakery,Bread,2025-04-12,2025-04-07,10,loaves
+1,Bakery,Muffins,2025-04-12,2025-04-07,47,units
+1,Frozen,Ice Cream,2025-09-06,2025-04-07,36,packages
+1,Produce,Bananas,2025-04-18,2025-04-07,35,bunches
+1,Meat,Pork Chops,2025-04-16,2025-04-07,17,packages
+1,Frozen,Pizza,2026-01-21,2025-04-07,27,kg
+1,Meat,Ground Beef,2025-04-09,2025-04-07,14,packages
+1,Produce,Carrots,2025-04-17,2025-04-07,14,bunches
+1,Dairy,Cream,2025-04-15,2025-04-07,26,containers
+1,Meat,Pork Chops,2025-04-19,2025-04-07,16,packages
+1,Frozen,Ice Cream,2025-09-24,2025-04-07,11,packages
+1,Bakery,Bread,2025-04-10,2025-04-07,32,units
+1,Bakery,Croissants,2025-04-20,2025-04-07,31,units
+1,Meat,Chicken Breast,2025-04-16,2025-04-07,2,kg
+1,Frozen,Frozen Berries,2025-08-03,2025-04-07,48,packages
+1,Meat,Pork Chops,2025-04-16,2025-04-07,24,kg
+1,Bakery,Croissants,2025-04-09,2025-04-07,9,units
+1,Canned,Baked Beans,2025-09-28,2025-04-07,28,cans
+1,Canned,Tomato Sauce,2025-09-22,2025-04-07,1,units
+1,Frozen,Pizza,2025-10-06,2025-04-07,17,units
+1,Frozen,Pizza,2025-12-31,2025-04-07,46,packages
+1,Bakery,Donuts,2025-04-15,2025-04-07,30,units
+1,Produce,Apples,2025-04-16,2025-04-07,6,units
+1,Dairy,Butter,2025-04-18,2025-04-07,40,liters
+1,Canned,Tomato Sauce,2026-01-24,2025-04-07,1,units
+1,Meat,Chicken Breast,2025-04-13,2025-04-07,43,packages
+1,Canned,Tomato Sauce,2025-11-03,2025-04-07,13,cans
+1,Produce,Lettuce,2025-04-08,2025-04-07,49,bunches
+1,Dairy,Cheese,2025-04-15,2025-04-07,22,kg
+1,Canned,Baked Beans,2026-01-23,2025-04-07,31,cans
+1,Meat,Pork Chops,2025-04-10,2025-04-07,9,kg
+1,Produce,Tomatoes,2025-04-16,2025-04-07,35,kg
+1,Bakery,Donuts,2025-04-09,2025-04-07,40,units
+1,Frozen,Frozen Berries,2026-04-03,2025-04-07,3,packages
+1,Dairy,Yogurt,2025-04-08,2025-04-07,23,kg
+1,Frozen,Ice Cream,2025-12-11,2025-04-07,10,kg
+1,Dairy,Cream,2025-04-18,2025-04-07,8,kg
+1,Produce,Bananas,2025-04-17,2025-04-07,35,kg
+1,Produce,Lettuce,2025-04-19,2025-04-07,18,units
+1,Produce,Tomatoes,2025-04-17,2025-04-07,1,bunches
+1,Frozen,Mixed Vegetables,2026-01-15,2025-04-07,49,kg
+1,Canned,Baked Beans,2025-11-09,2025-04-07,12,units
+1,Produce,Lettuce,2025-04-19,2025-04-07,45,kg
+1,Dairy,Cheese,2025-04-20,2025-04-07,41,liters
+1,Produce,Apples,2025-04-17,2025-04-07,3,bunches
+1,Canned,Tomato Sauce,2025-08-29,2025-04-07,32,cans
+1,Canned,Vegetable Soup,2025-10-04,2025-04-07,14,cans
+1,Dairy,Butter,2025-04-11,2025-04-07,39,kg
+1,Bakery,Donuts,2025-04-21,2025-04-07,7,dozens
+1,Frozen,Frozen Berries,2025-10-20,2025-04-07,4,packages
+1,Produce,Bananas,2025-04-18,2025-04-07,13,units
+1,Frozen,Ice Cream,2025-07-16,2025-04-07,32,units
+1,Canned,Tuna in Water,2026-04-02,2025-04-07,27,cans
+1,Produce,Carrots,2025-04-08,2025-04-07,22,units
+1,Meat,Chicken Breast,2025-04-10,2025-04-07,43,kg
+1,Bakery,Bread,2025-04-21,2025-04-07,7,loaves
+1,Bakery,Baguettes,2025-04-13,2025-04-07,5,loaves
+1,Produce,Apples,2025-04-10,2025-04-07,33,kg
+1,Meat,Ground Beef,2025-04-11,2025-04-07,8,kg
+1,Bakery,Bread,2025-04-15,2025-04-07,1,loaves
+1,Bakery,Croissants,2025-04-15,2025-04-07,12,loaves
+1,Dairy,Butter,2025-04-13,2025-04-07,47,containers
+1,Dairy,Cream,2025-04-20,2025-04-07,27,liters
+1,Produce,Tomatoes,2025-04-14,2025-04-07,47,units
+1,Canned,Vegetable Soup,2025-08-19,2025-04-07,44,cans
+1,Produce,Tomatoes,2025-04-19,2025-04-07,26,bunches
+1,Frozen,Mixed Vegetables,2025-09-27,2025-04-07,6,kg
+1,Dairy,Milk,2025-04-09,2025-04-07,3,liters
+1,Canned,Vegetable Soup,2025-09-08,2025-04-07,50,cans
+1,Meat,Salmon Fillets,2025-04-20,2025-04-07,4,packages
+1,Dairy,Yogurt,2025-04-16,2025-04-07,9,liters
+1,Canned,Vegetable Soup,2026-03-07,2025-04-07,16,cans
+1,Bakery,Croissants,2025-04-21,2025-04-07,30,loaves
+1,Frozen,Frozen Berries,2026-03-25,2025-04-07,36,kg
+1,Meat,Salmon Fillets,2025-04-21,2025-04-07,30,kg
+1,Produce,Apples,2025-04-09,2025-04-07,21,kg
+1,Bakery,Donuts,2025-04-20,2025-04-07,29,dozens
+1,Canned,Baked Beans,2025-12-18,2025-04-07,23,cans
+1,Produce,Tomatoes,2025-04-16,2025-04-07,30,units
+1,Produce,Apples,2025-04-10,2025-04-07,46,units
+1,Produce,Tomatoes,2025-04-18,2025-04-07,18,bunches
+1,Meat,Chicken Breast,2025-04-16,2025-04-07,26,packages
+1,Dairy,Butter,2025-04-12,2025-04-07,5,kg
+1,Bakery,Croissants,2025-04-19,2025-04-07,16,units
+1,Dairy,Yogurt,2025-04-21,2025-04-07,8,containers
+1,Frozen,Mixed Vegetables,2025-10-12,2025-04-07,16,packages
+1,Canned,Tomato Sauce,2026-01-23,2025-04-07,37,units
+1,Bakery,Baguettes,2025-04-08,2025-04-07,4,units
+1,Canned,Baked Beans,2025-07-20,2025-04-07,9,cans
+1,Meat,Chicken Breast,2025-04-13,2025-04-07,1,kg
+1,Meat,Pork Chops,2025-04-17,2025-04-07,11,packages
+1,Frozen,Ice Cream,2025-10-24,2025-04-07,15,units
+1,Meat,Pork Chops,2025-04-14,2025-04-07,7,packages
+1,Meat,Chicken Breast,2025-04-10,2025-04-07,36,kg
+1,Bakery,Muffins,2025-04-09,2025-04-07,23,units
+1,Produce,Tomatoes,2025-04-15,2025-04-07,5,units
