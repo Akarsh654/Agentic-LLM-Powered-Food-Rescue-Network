@@ -1,0 +1,101 @@
+store_id,food_category,food_item,todays_date,expiry_date,quantity,unit
+7,Dairy,Sour Cream,2023-10-05,2023-10-06,18,kg
+7,Dairy,Cream Cheese,2023-10-05,2023-10-10,23,kg
+7,Dairy,Cheddar Cheese,2023-10-05,2023-10-08,31,kg
+7,Dairy,Whole Milk,2023-10-05,2023-10-10,50,liters
+7,Dairy,Mozzarella Cheese,2023-10-05,2023-10-07,18,kg
+7,Dairy,Cottage Cheese,2023-10-05,2023-10-09,43,kg
+7,Dairy,Skim Milk,2023-10-05,2023-10-06,20,liters
+7,Dairy,Whipping Cream,2023-10-05,2023-10-09,1,liters
+7,Dairy,Greek Yogurt,2023-10-05,2023-10-06,5,packs
+7,Dairy,Greek Yogurt,2023-10-05,2023-10-10,47,packs
+7,Dairy,Cottage Cheese,2023-10-05,2023-10-10,41,kg
+7,Dairy,Greek Yogurt,2023-10-05,2023-10-06,47,packs
+7,Dairy,Greek Yogurt,2023-10-05,2023-10-06,6,packs
+7,Bakery,Chocolate Cake,2023-10-05,2023-10-09,43,pieces
+7,Bakery,Chocolate Cake,2023-10-05,2023-10-10,41,pieces
+7,Bakery,Bagels,2023-10-05,2023-10-10,30,pieces
+7,Bakery,Naan Bread,2023-10-05,2023-10-10,8,pieces
+7,Bakery,Blueberry Muffins,2023-10-05,2023-10-06,19,pieces
+7,Bakery,Croissants,2023-10-05,2023-10-06,16,pieces
+7,Bakery,Naan Bread,2023-10-05,2023-10-08,48,pieces
+7,Bakery,Chocolate Cake,2023-10-05,2023-10-10,39,pieces
+7,Bakery,Naan Bread,2023-10-05,2023-10-10,15,pieces
+7,Bakery,Sourdough Bread,2023-10-05,2023-10-10,18,pieces
+7,Bakery,Pita Bread,2023-10-05,2023-10-07,23,pieces
+7,Bakery,Blueberry Muffins,2023-10-05,2023-10-09,14,pieces
+7,Bakery,Pita Bread,2023-10-05,2023-10-10,30,pieces
+7,Produce,Romaine Lettuce,2023-10-05,2023-10-09,34,pieces
+7,Produce,Spinach,2023-10-05,2023-10-06,38,kg
+7,Produce,Spinach,2023-10-05,2023-10-08,22,kg
+7,Produce,Romaine Lettuce,2023-10-05,2023-10-07,41,pieces
+7,Produce,Carrots,2023-10-05,2023-10-09,10,kg
+7,Produce,Cucumbers,2023-10-05,2023-10-08,5,pieces
+7,Produce,Carrots,2023-10-05,2023-10-07,6,kg
+7,Produce,Romaine Lettuce,2023-10-05,2023-10-10,3,pieces
+7,Produce,Tomatoes,2023-10-05,2023-10-07,19,kg
+7,Produce,Bell Peppers,2023-10-05,2023-10-09,34,kg
+7,Produce,Onions,2023-10-05,2023-10-07,26,kg
+7,Produce,Bell Peppers,2023-10-05,2023-10-08,2,kg
+7,Produce,Bell Peppers,2023-10-05,2023-10-08,33,kg
+7,Packaged,Potato Chips,2023-10-05,2023-11-03,15,packs
+7,Packaged,Penne Pasta,2023-10-05,2023-11-21,23,packs
+7,Packaged,Brown Rice,2023-10-05,2023-11-17,17,kg
+7,Packaged,Potato Chips,2023-10-05,2023-11-29,41,packs
+7,Packaged,Granola Bars,2023-10-05,2023-11-02,49,packs
+7,Packaged,Canned Kidney Beans,2023-10-05,2023-11-18,8,packs
+7,Packaged,Canned Kidney Beans,2023-10-05,2023-11-07,19,packs
+7,Packaged,Spaghetti,2023-10-05,2023-11-19,29,packs
+7,Packaged,Brown Rice,2023-10-05,2023-10-21,27,kg
+7,Packaged,Potato Chips,2023-10-05,2023-11-15,6,packs
+7,Packaged,Cereal,2023-10-05,2023-10-20,26,packs
+7,Packaged,Quinoa,2023-10-05,2023-12-02,18,kg
+7,Packaged,Cereal,2023-10-05,2023-11-13,18,packs
+7,Meat,Lamb Leg,2023-10-05,2023-10-09,15,kg
+7,Meat,Pork Tenderloin,2023-10-05,2023-10-08,18,kg
+7,Meat,Pork Tenderloin,2023-10-05,2023-10-07,41,kg
+7,Meat,Ham,2023-10-05,2023-10-10,2,kg
+7,Meat,Lamb Leg,2023-10-05,2023-10-07,31,kg
+7,Meat,Ham,2023-10-05,2023-10-09,40,kg
+7,Meat,Ham,2023-10-05,2023-10-09,49,kg
+7,Meat,Turkey Breast,2023-10-05,2023-10-10,40,kg
+7,Meat,Turkey Breast,2023-10-05,2023-10-09,11,kg
+7,Meat,Beef Steak,2023-10-05,2023-10-08,46,kg
+7,Meat,Ham,2023-10-05,2023-10-09,17,kg
+7,Meat,Sausages,2023-10-05,2023-10-10,18,kg
+7,Seafood,Canned Tuna,2023-10-05,2023-10-10,28,packs
+7,Seafood,Shrimp,2023-10-05,2023-10-06,44,kg
+7,Seafood,Salmon Fillet,2023-10-05,2023-10-10,47,kg
+7,Seafood,Mussels,2023-10-05,2023-10-06,37,kg
+7,Seafood,Fresh Tuna,2023-10-05,2023-10-08,21,kg
+7,Seafood,Cod Fillet,2023-10-05,2023-10-07,34,kg
+7,Seafood,Cod Fillet,2023-10-05,2023-10-09,17,kg
+7,Seafood,Shrimp,2023-10-05,2023-10-09,46,kg
+7,Seafood,Salmon Fillet,2023-10-05,2023-10-07,47,kg
+7,Seafood,Lobster Tail,2023-10-05,2023-10-10,19,pieces
+7,Seafood,Salmon Fillet,2023-10-05,2023-10-10,15,kg
+7,Seafood,Canned Tuna,2023-10-05,2023-10-08,31,packs
+7,Frozen,Frozen Blueberries,2023-10-05,2023-11-24,36,packs
+7,Frozen,Vanilla Ice Cream,2023-10-05,2023-11-30,30,liters
+7,Frozen,Frozen Peas,2023-10-05,2023-12-23,30,packs
+7,Frozen,Vanilla Ice Cream,2023-10-05,2023-12-05,37,liters
+7,Frozen,Frozen Broccoli,2023-10-05,2023-12-17,11,packs
+7,Frozen,Pepperoni Pizza,2023-10-05,2023-11-20,49,pieces
+7,Frozen,Chocolate Ice Cream,2023-10-05,2023-11-16,23,liters
+7,Frozen,Frozen Chicken Nuggets,2023-10-05,2023-12-06,21,packs
+7,Frozen,Frozen Blueberries,2023-10-05,2023-12-14,14,packs
+7,Frozen,Frozen Blueberries,2023-10-05,2023-12-28,10,packs
+7,Frozen,Frozen Broccoli,2023-10-05,2023-11-18,19,packs
+7,Frozen,Vanilla Ice Cream,2023-10-05,2023-12-12,19,liters
+7,Beverages,Sparkling Water,2023-10-05,2023-11-12,42,liters
+7,Beverages,Orange Juice,2023-10-05,2023-10-26,36,liters
+7,Beverages,Apple Juice,2023-10-05,2023-10-29,41,liters
+7,Beverages,Soy Milk,2023-10-05,2023-11-16,8,liters
+7,Beverages,Soy Milk,2023-10-05,2023-10-23,4,liters
+7,Beverages,Green Tea,2023-10-05,2023-11-10,45,packs
+7,Beverages,Almond Milk,2023-10-05,2023-11-25,30,liters
+7,Beverages,Sparkling Water,2023-10-05,2023-11-09,36,liters
+7,Beverages,Green Tea,2023-10-05,2023-11-18,3,packs
+7,Beverages,Orange Juice,2023-10-05,2023-10-24,2,liters
+7,Beverages,Ground Coffee,2023-10-05,2023-12-02,8,packs
+7,Beverages,Cola,2023-10-05,2023-10-28,23,liters
