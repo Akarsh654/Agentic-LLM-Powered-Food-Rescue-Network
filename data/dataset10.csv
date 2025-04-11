@@ -1,0 +1,98 @@
+store_id,food_category,food_item,todays_date,expiry_date,quantity,unit
+10,Dairy,Skim Milk,2025-04-08,2025-04-12,25,liters
+10,Dairy,Feta Cheese,2025-04-08,2025-04-13,10,packs
+10,Dairy,Mozzarella,2025-04-08,2025-04-11,14,packs
+10,Dairy,Ricotta Cheese,2025-04-08,2025-04-10,8,tubs
+10,Dairy,Almond Yogurt,2025-04-08,2025-04-12,12,packs
+10,Dairy,String Cheese,2025-04-08,2025-04-13,15,packs
+10,Dairy,Half and Half,2025-04-08,2025-04-11,9,liters
+10,Bakery,Pumpernickel Bread,2025-04-08,2025-04-10,7,loaves
+10,Bakery,Baguettes,2025-04-08,2025-04-09,18,pieces
+10,Bakery,Blueberry Muffins,2025-04-08,2025-04-10,14,packs
+10,Bakery,Pita Bread,2025-04-08,2025-04-11,10,packs
+10,Bakery,Cheese Danish,2025-04-08,2025-04-09,16,pieces
+10,Bakery,Chocolate Chip Cookies,2025-04-08,2025-04-10,22,packs
+10,Bakery,Brioche Buns,2025-04-08,2025-04-10,11,packs
+10,Produce,Pineapple,2025-04-08,2025-04-12,12,pieces
+10,Produce,Spinach,2025-04-08,2025-04-10,20,packs
+10,Produce,Eggplant,2025-04-08,2025-04-12,14,pieces
+10,Produce,Asparagus,2025-04-08,2025-04-11,16,bunches
+10,Produce,Red Cabbage,2025-04-08,2025-04-13,9,heads
+10,Produce,Brussels Sprouts,2025-04-08,2025-04-12,15,kg
+10,Produce,Mangoes,2025-04-08,2025-04-11,18,pieces
+10,Produce,Radishes,2025-04-08,2025-04-12,10,bunches
+10,Produce,Green Beans,2025-04-08,2025-04-11,13,kg
+10,Produce,Kiwi,2025-04-08,2025-04-12,22,kg
+10,Produce,Cauliflower,2025-04-08,2025-04-12,11,heads
+10,Produce,Artichokes,2025-04-08,2025-04-11,8,pieces
+10,Packaged,Quinoa,2025-04-08,2025-05-18,14,kg
+10,Packaged,Jarred Tomato Sauce,2025-04-08,2025-05-28,22,jars
+10,Packaged,Dried Lentils,2025-04-08,2025-06-12,18,kg
+10,Packaged,Protein Bars,2025-04-08,2025-05-20,26,boxes
+10,Packaged,Canned Tuna,2025-04-08,2025-06-05,30,cans
+10,Packaged,Mustard,2025-04-08,2025-05-25,12,bottles
+10,Packaged,Fruit Snacks,2025-04-08,2025-05-15,19,boxes
+10,Packaged,Couscous,2025-04-08,2025-06-08,7,boxes
+10,Packaged,Pretzels,2025-04-08,2025-05-10,16,bags
+10,Packaged,Hot Sauce,2025-04-08,2025-06-02,9,bottles
+10,Packaged,Popcorn,2025-04-08,2025-05-23,15,bags
+10,Packaged,Maple Syrup,2025-04-08,2025-06-10,6,bottles
+10,Meat,Ribeye Steak,2025-04-08,2025-04-11,10,kg
+10,Meat,Chicken Thighs,2025-04-08,2025-04-12,17,kg
+10,Meat,Italian Sausage,2025-04-08,2025-04-11,12,packs
+10,Meat,Beef Brisket,2025-04-08,2025-04-10,8,kg
+10,Meat,Duck Breast,2025-04-08,2025-04-11,5,kg
+10,Meat,Lamb Rack,2025-04-08,2025-04-12,4,racks
+10,Meat,Veal Cutlets,2025-04-08,2025-04-10,6,kg
+10,Meat,Beef Jerky,2025-04-08,2025-05-15,11,packs
+10,Seafood,Sea Bass,2025-04-08,2025-04-10,7,kg
+10,Seafood,Bay Scallops,2025-04-08,2025-04-09,9,kg
+10,Seafood,Lobster Tails,2025-04-08,2025-04-10,4,kg
+10,Seafood,Fish Fillets,2025-04-08,2025-04-10,11,kg
+10,Seafood,Clams,2025-04-08,2025-04-09,6,kg
+10,Frozen,Gelato,2025-04-08,2025-06-15,10,tubs
+10,Frozen,Frozen Dumplings,2025-04-08,2025-06-25,18,packs
+10,Frozen,Stir-Fry Vegetables,2025-04-08,2025-06-20,15,bags
+10,Frozen,Frozen Pie Crust,2025-04-08,2025-07-08,8,packs
+10,Frozen,Ice Cream Sandwiches,2025-04-08,2025-06-28,12,boxes
+10,Frozen,Frozen Breakfast Bowls,2025-04-08,2025-06-12,16,packs
+10,Frozen,Hash Browns,2025-04-08,2025-06-22,13,bags
+10,Frozen,Edamame,2025-04-08,2025-06-18,9,bags
+10,Frozen,Frozen Lasagna,2025-04-08,2025-06-30,7,trays
+10,Beverages,Cranberry Juice,2025-04-08,2025-05-12,16,liters
+10,Beverages,Sparkling Water,2025-04-08,2025-06-08,28,bottles
+10,Beverages,Lemonade,2025-04-08,2025-05-20,18,liters
+10,Beverages,Cold Brew Coffee,2025-04-08,2025-05-15,12,bottles
+10,Beverages,Kombucha,2025-04-08,2025-05-10,14,bottles
+10,Beverages,Protein Shakes,2025-04-08,2025-05-28,20,bottles
+10,Beverages,Soy Milk,2025-04-08,2025-05-18,11,liters
+10,Dairy,Kefir,2025-04-08,2025-04-12,7,bottles
+10,Dairy,Blue Cheese,2025-04-08,2025-04-13,5,wedges
+10,Bakery,Whole Grain Rolls,2025-04-08,2025-04-11,13,packs
+10,Bakery,Rye Bread,2025-04-08,2025-04-10,9,loaves
+10,Bakery,Lemon Tart,2025-04-08,2025-04-09,6,tarts
+10,Produce,Dragon Fruit,2025-04-08,2025-04-11,7,pieces
+10,Produce,Fennel,2025-04-08,2025-04-12,9,bulbs
+10,Produce,Snow Peas,2025-04-08,2025-04-10,12,kg
+10,Produce,Radicchio,2025-04-08,2025-04-11,5,heads
+10,Produce,Leeks,2025-04-08,2025-04-12,10,bunches
+10,Packaged,Farro,2025-04-08,2025-05-30,8,kg
+10,Packaged,Coconut Milk,2025-04-08,2025-05-25,13,cans
+10,Packaged,Chocolate Hazelnut Spread,2025-04-08,2025-06-05,9,jars
+10,Packaged,Dried Apricots,2025-04-08,2025-05-15,11,packs
+10,Meat,Pork Tenderloin,2025-04-08,2025-04-11,7,kg
+10,Meat,Beef Short Ribs,2025-04-08,2025-04-12,9,kg
+10,Seafood,Sardines,2025-04-08,2025-04-10,12,kg
+10,Seafood,Swordfish Steaks,2025-04-08,2025-04-10,5,kg
+10,Frozen,Frozen Spring Rolls,2025-04-08,2025-06-18,14,packs
+10,Frozen,Açaí Packs,2025-04-08,2025-07-01,10,packs
+10,Frozen,Tater Tots,2025-04-08,2025-06-25,11,bags
+10,Beverages,Ginger Beer,2025-04-08,2025-05-20,15,bottles
+10,Beverages,Hot Cocoa Mix,2025-04-08,2025-06-10,8,boxes
+10,Beverages,Fruit Smoothies,2025-04-08,2025-05-08,12,bottles
+10,Bakery,Challah Bread,2025-04-08,2025-04-10,4,loaves
+10,Bakery,Fruit Tarts,2025-04-08,2025-04-09,10,pieces
+10,Produce,Butter Lettuce,2025-04-08,2025-04-11,13,heads
+10,Produce,Belgian Endive,2025-04-08,2025-04-10,6,packs
+10,Produce,Passion Fruit,2025-04-08,2025-04-12,9,pieces
+10,Produce,Pearl Onions,2025-04-08,2025-04-13,7,kg

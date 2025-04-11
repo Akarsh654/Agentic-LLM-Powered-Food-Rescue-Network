@@ -1,0 +1,101 @@
+store_id,food_category,food_item,todays_date,expiry_date,quantity,unit
+8,Frozen,Frozen Vegetables,2025-04-08,2025-06-09,31,liters
+8,Frozen,Frozen Vegetables,2025-04-08,2025-07-03,23,kg
+8,Packaged,Pasta,2025-04-08,2025-05-13,47,liters
+8,Meat,Pork,2025-04-08,2025-04-13,48,packs
+8,Frozen,Frozen Pizza,2025-04-08,2025-06-13,5,liters
+8,Bakery,Croissant,2025-04-08,2025-04-09,46,liters
+8,Seafood,Salmon,2025-04-08,2025-04-11,41,packs
+8,Dairy,Milk,2025-04-08,2025-04-11,12,pieces
+8,Packaged,Cereal,2025-04-08,2025-04-25,32,pieces
+8,Bakery,Croissant,2025-04-08,2025-04-10,50,packs
+8,Bakery,Croissant,2025-04-08,2025-04-11,28,liters
+8,Beverages,Water,2025-04-08,2025-05-19,8,pieces
+8,Meat,Pork,2025-04-08,2025-04-13,12,pieces
+8,Packaged,Pasta,2025-04-08,2025-05-07,40,liters
+8,Dairy,Cheese,2025-04-08,2025-04-11,49,liters
+8,Meat,Chicken,2025-04-08,2025-04-11,41,pieces
+8,Produce,Apples,2025-04-08,2025-04-09,32,packs
+8,Dairy,Cheese,2025-04-08,2025-04-13,35,pieces
+8,Beverages,Water,2025-04-08,2025-06-06,42,packs
+8,Dairy,Milk,2025-04-08,2025-04-10,11,packs
+8,Meat,Chicken,2025-04-08,2025-04-09,49,liters
+8,Meat,Chicken,2025-04-08,2025-04-13,30,kg
+8,Dairy,Milk,2025-04-08,2025-04-11,45,pieces
+8,Dairy,Yogurt,2025-04-08,2025-04-12,7,packs
+8,Beverages,Water,2025-04-08,2025-05-08,35,packs
+8,Produce,Lettuce,2025-04-08,2025-04-11,45,liters
+8,Bakery,Croissant,2025-04-08,2025-04-13,4,kg
+8,Beverages,Soda,2025-04-08,2025-05-13,8,packs
+8,Beverages,Water,2025-04-08,2025-05-28,18,liters
+8,Meat,Chicken,2025-04-08,2025-04-09,21,kg
+8,Produce,Lettuce,2025-04-08,2025-04-10,20,kg
+8,Frozen,Ice Cream,2025-04-08,2025-05-11,17,liters
+8,Dairy,Milk,2025-04-08,2025-04-13,8,liters
+8,Dairy,Cheese,2025-04-08,2025-04-10,20,liters
+8,Bakery,Croissant,2025-04-08,2025-04-12,5,packs
+8,Seafood,Shrimp,2025-04-08,2025-04-10,25,packs
+8,Beverages,Soda,2025-04-08,2025-05-23,31,kg
+8,Produce,Apples,2025-04-08,2025-04-12,17,kg
+8,Beverages,Soda,2025-04-08,2025-05-13,21,liters
+8,Meat,Beef,2025-04-08,2025-04-12,6,liters
+8,Dairy,Yogurt,2025-04-08,2025-04-13,26,kg
+8,Packaged,Cereal,2025-04-08,2025-05-14,21,pieces
+8,Beverages,Water,2025-04-08,2025-05-01,14,liters
+8,Dairy,Cheese,2025-04-08,2025-04-09,40,pieces
+8,Bakery,Bread,2025-04-08,2025-04-09,5,liters
+8,Bakery,Bagel,2025-04-08,2025-04-10,28,kg
+8,Beverages,Soda,2025-04-08,2025-04-27,18,pieces
+8,Seafood,Shrimp,2025-04-08,2025-04-12,46,liters
+8,Packaged,Rice,2025-04-08,2025-05-26,17,pieces
+8,Seafood,Salmon,2025-04-08,2025-04-10,28,pieces
+8,Beverages,Soda,2025-04-08,2025-05-26,22,packs
+8,Dairy,Cheese,2025-04-08,2025-04-12,15,pieces
+8,Beverages,Water,2025-04-08,2025-05-06,7,kg
+8,Bakery,Bread,2025-04-08,2025-04-12,34,liters
+8,Seafood,Tuna,2025-04-08,2025-04-10,48,liters
+8,Produce,Apples,2025-04-08,2025-04-12,6,kg
+8,Bakery,Bagel,2025-04-08,2025-04-09,37,pieces
+8,Meat,Beef,2025-04-08,2025-04-13,43,pieces
+8,Packaged,Cereal,2025-04-08,2025-05-03,25,liters
+8,Meat,Chicken,2025-04-08,2025-04-12,7,liters
+8,Beverages,Orange Juice,2025-04-08,2025-05-21,49,liters
+8,Packaged,Pasta,2025-04-08,2025-04-30,6,packs
+8,Packaged,Pasta,2025-04-08,2025-05-18,46,packs
+8,Frozen,Ice Cream,2025-04-08,2025-05-10,24,packs
+8,Packaged,Cereal,2025-04-08,2025-05-16,2,pieces
+8,Frozen,Frozen Vegetables,2025-04-08,2025-05-28,20,pieces
+8,Beverages,Soda,2025-04-08,2025-06-05,42,packs
+8,Frozen,Ice Cream,2025-04-08,2025-05-29,48,packs
+8,Beverages,Water,2025-04-08,2025-04-28,25,packs
+8,Seafood,Tuna,2025-04-08,2025-04-12,5,kg
+8,Packaged,Pasta,2025-04-08,2025-05-29,36,kg
+8,Packaged,Cereal,2025-04-08,2025-05-18,41,kg
+8,Produce,Lettuce,2025-04-08,2025-04-10,23,liters
+8,Dairy,Yogurt,2025-04-08,2025-04-13,35,pieces
+8,Frozen,Ice Cream,2025-04-08,2025-06-23,36,liters
+8,Frozen,Frozen Vegetables,2025-04-08,2025-06-01,23,kg
+8,Beverages,Soda,2025-04-08,2025-04-27,29,kg
+8,Frozen,Frozen Pizza,2025-04-08,2025-05-09,38,liters
+8,Packaged,Pasta,2025-04-08,2025-05-23,9,pieces
+8,Meat,Beef,2025-04-08,2025-04-10,44,liters
+8,Produce,Bananas,2025-04-08,2025-04-10,17,packs
+8,Dairy,Cheese,2025-04-08,2025-04-11,42,kg
+8,Bakery,Bagel,2025-04-08,2025-04-11,11,packs
+8,Frozen,Frozen Pizza,2025-04-08,2025-06-02,1,kg
+8,Dairy,Cheese,2025-04-08,2025-04-11,44,pieces
+8,Produce,Apples,2025-04-08,2025-04-12,4,pieces
+8,Packaged,Rice,2025-04-08,2025-05-13,29,kg
+8,Seafood,Shrimp,2025-04-08,2025-04-10,34,packs
+8,Meat,Beef,2025-04-08,2025-04-11,1,kg
+8,Meat,Chicken,2025-04-08,2025-04-13,14,packs
+8,Seafood,Tuna,2025-04-08,2025-04-13,1,packs
+8,Frozen,Frozen Vegetables,2025-04-08,2025-06-05,20,pieces
+8,Seafood,Tuna,2025-04-08,2025-04-11,42,kg
+8,Frozen,Frozen Vegetables,2025-04-08,2025-05-15,28,pieces
+8,Meat,Chicken,2025-04-08,2025-04-12,25,kg
+8,Packaged,Cereal,2025-04-08,2025-05-25,23,pieces
+8,Produce,Apples,2025-04-08,2025-04-12,45,liters
+8,Frozen,Ice Cream,2025-04-08,2025-05-18,31,pieces
+8,Seafood,Salmon,2025-04-08,2025-04-12,29,pieces
+8,Bakery,Bagel,2025-04-08,2025-04-12,26,liters
