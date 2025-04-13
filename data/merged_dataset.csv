@@ -1,0 +1,1006 @@
+store_id,store_name,food_category,food_item,todays_date,expiry_date,quantity,unit,latitude,longitude
+10,Walmart Supercentre – St Clair Ave W,Produce,Radishes,2025-04-08,2025-04-12,10,bunches,43.673,-79.48
+2,Anthony’s No Frills,Pantry,Honey,2025-04-07,2026-03-01,15,jars,43.6377,-79.4365
+1,Jordan’s No Frills,Canned,Vegetable Soup,2025-04-07,2025-10-04,14,cans,43.6406,-79.4205
+7,Metro – Ossington Ave,Bakery,Pita Bread,2023-10-05,2023-10-10,30,pieces,43.6485,-79.4205
+2,Anthony’s No Frills,Pantry,Jam,2025-04-07,2025-12-15,18,jars,43.6377,-79.4365
+7,Metro – Ossington Ave,Bakery,Naan Bread,2023-10-05,2023-10-10,15,pieces,43.6485,-79.4205
+1,Jordan’s No Frills,Meat,Chicken Breast,2025-04-07,2025-04-16,26,packages,43.6406,-79.4205
+2,Anthony’s No Frills,Dairy,Parmesan Cheese,2025-04-07,2025-05-01,5,kg,43.6377,-79.4365
+1,Jordan’s No Frills,Frozen,Pizza,2025-04-07,2025-12-31,46,packages,43.6406,-79.4205
+7,Metro – Ossington Ave,Dairy,Greek Yogurt,2023-10-05,2023-10-06,5,packs,43.6485,-79.4205
+5,Loblaws – Dundas St W,Snacks,Cookies,2025-04-07,2025-09-02,39,Packs,43.6542,-79.45
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Frozen Pizza,2025-04-08,2025-06-13,5,liters,43.6392,-79.3905
+1,Jordan’s No Frills,Bakery,Donuts,2025-04-07,2025-04-09,40,units,43.6406,-79.4205
+5,Loblaws – Dundas St W,Produce,Apples,2025-04-07,2025-04-15,32,Kg,43.6542,-79.45
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Pork,2025-04-08,2025-04-13,48,packs,43.6392,-79.3905
+4,Loblaws – Dupont St,Beverages,Soda,2025-04-07,2025-05-06,5,liters,43.671,-79.4202
+7,Metro – Ossington Ave,Seafood,Shrimp,2023-10-05,2023-10-06,44,kg,43.6485,-79.4205
+6,Metro – Front St E,Frozen,Frozen Spinach,2023-10-05,2023-11-23,8,packs,43.6491,-79.373
+6,Metro – Front St E,Beverages,Lemonade,2023-10-05,2023-11-25,48,liters,43.6491,-79.373
+3,Joe’s No Frills,Fruits,Blueberries,2025-04-07,2025-04-21,5,pieces,43.6595,-79.435
+5,Loblaws – Dundas St W,Produce,Apples,2025-04-07,2025-04-09,4,Units,43.6542,-79.45
+9,Sobeys – The Queensway,Packaged,Pasta,2025-04-08,2025-05-20,28,packs,43.636,-79.485
+5,Loblaws – Dundas St W,Seafood,Shrimp,2025-04-07,2025-04-10,36,Kg,43.6542,-79.45
+5,Loblaws – Dundas St W,Dairy,Cheese,2025-04-07,2025-04-16,16,Units,43.6542,-79.45
+4,Loblaws – Dupont St,Produce,Lettuce,2025-04-07,2025-04-10,42,Kg,43.671,-79.4202
+2,Anthony’s No Frills,Canned Goods,Canned Corn,2025-04-07,2026-02-15,25,cans,43.6377,-79.4365
+4,Loblaws – Dupont St,Beverages,Soda,2025-04-07,2025-05-27,6,liters,43.671,-79.4202
+4,Loblaws – Dupont St,Produce,Lettuce,2025-04-07,2025-04-14,24,Kg,43.671,-79.4202
+2,Anthony’s No Frills,Dairy,Ghee,2025-04-07,2025-05-15,7,kg,43.6377,-79.4365
+3,Joe’s No Frills,Bakery,Bagels,2025-04-07,2025-04-19,17,packs,43.6595,-79.435
+5,Loblaws – Dundas St W,Snacks,Chips,2025-04-07,2025-10-04,27,Kg,43.6542,-79.45
+7,Metro – Ossington Ave,Frozen,Frozen Blueberries,2023-10-05,2023-12-28,10,packs,43.6485,-79.4205
+4,Loblaws – Dupont St,Seafood,Cod,2025-04-07,2025-04-09,19,Kg,43.671,-79.4202
+9,Sobeys – The Queensway,Dairy,Sour Cream,2025-04-08,2025-04-11,8,tubs,43.636,-79.485
+5,Loblaws – Dundas St W,Bakery,Bread,2025-04-07,2025-04-17,10,Kg,43.6542,-79.45
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Chicken,2025-04-08,2025-04-13,14,packs,43.6392,-79.3905
+7,Metro – Ossington Ave,Bakery,Naan Bread,2023-10-05,2023-10-08,48,pieces,43.6485,-79.4205
+2,Anthony’s No Frills,Produce,Cucumbers,2025-04-07,2025-04-17,20,kg,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Water,2025-04-08,2025-05-08,35,packs,43.6392,-79.3905
+2,Anthony’s No Frills,Produce,Ginger,2025-04-07,2025-04-20,8,kg,43.6377,-79.4365
+3,Joe’s No Frills,Fish & Seafood,Salmon Fillet,2025-04-07,2025-04-09,4,kg,43.6595,-79.435
+3,Joe’s No Frills,Vegetables,Potatoes,2025-04-07,2025-04-19,12,bunches,43.6595,-79.435
+4,Loblaws – Dupont St,Dairy,Butter,2025-04-07,2025-04-15,11,liters,43.671,-79.4202
+7,Metro – Ossington Ave,Frozen,Frozen Blueberries,2023-10-05,2023-12-14,14,packs,43.6485,-79.4205
+6,Metro – Front St E,Seafood,Sea Bass,2023-10-05,2023-10-07,42,kg,43.6491,-79.373
+3,Joe’s No Frills,Fruits,Blueberries,2025-04-07,2025-04-21,5,pieces,43.6595,-79.435
+3,Joe’s No Frills,Frozen Foods,Frozen Vegetables,2025-04-07,2026-03-26,10,boxes,43.6595,-79.435
+1,Jordan’s No Frills,Meat,Chicken Breast,2025-04-07,2025-04-16,2,kg,43.6406,-79.4205
+6,Metro – Front St E,Beverages,Lemonade,2023-10-05,2023-10-30,23,liters,43.6491,-79.373
+9,Sobeys – The Queensway,Bakery,Dinner Rolls,2025-04-08,2025-04-10,8,packs,43.636,-79.485
+2,Anthony’s No Frills,Pantry,Peanut Butter,2025-04-07,2026-01-15,14,jars,43.6377,-79.4365
+3,Joe’s No Frills,Fruits,Avocados,2025-04-07,2025-04-21,10,lb,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Milk,2025-04-08,2025-04-11,45,pieces,43.6392,-79.3905
+1,Jordan’s No Frills,Canned,Vegetable Soup,2025-04-07,2026-03-07,16,cans,43.6406,-79.4205
+3,Joe’s No Frills,Fish & Seafood,Tuna Steak,2025-04-07,2025-04-12,1,pieces,43.6595,-79.435
+7,Metro – Ossington Ave,Dairy,Whipping Cream,2023-10-05,2023-10-09,1,liters,43.6485,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Bakery,Pumpernickel Bread,2025-04-08,2025-04-10,7,loaves,43.673,-79.48
+7,Metro – Ossington Ave,Seafood,Salmon Fillet,2023-10-05,2023-10-07,47,kg,43.6485,-79.4205
+4,Loblaws – Dupont St,Confectionery,Candy,2025-04-07,2025-07-25,20,packs,43.671,-79.4202
+7,Metro – Ossington Ave,Seafood,Cod Fillet,2023-10-05,2023-10-09,17,kg,43.6485,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Seafood,Tuna,2025-04-08,2025-04-12,5,kg,43.6392,-79.3905
+1,Jordan’s No Frills,Bakery,Baguettes,2025-04-07,2025-04-13,5,loaves,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Beverages,Lemonade,2025-04-08,2025-05-20,18,liters,43.673,-79.48
+3,Joe’s No Frills,Frozen Foods,Frozen Fish Sticks,2025-04-07,2025-11-07,20,kg,43.6595,-79.435
+5,Loblaws – Dundas St W,Dairy,Cheese,2025-04-07,2025-04-18,8,Kg,43.6542,-79.45
+3,Joe’s No Frills,Fruits,Grapes,2025-04-07,2025-04-17,15,pieces,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Beverages,Sparkling Water,2025-04-08,2025-06-08,28,bottles,43.673,-79.48
+6,Metro – Front St E,Packaged,Cereal,2023-10-05,2023-12-04,49,packs,43.6491,-79.373
+2,Anthony’s No Frills,Bakery,Donuts,2025-04-07,2025-04-10,25,pieces,43.6377,-79.4365
+6,Metro – Front St E,Packaged,Oatmeal,2023-10-05,2023-11-29,43,packs,43.6491,-79.373
+7,Metro – Ossington Ave,Meat,Pork Tenderloin,2023-10-05,2023-10-08,18,kg,43.6485,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Ice Cream,2025-04-08,2025-05-11,17,liters,43.6392,-79.3905
+3,Joe’s No Frills,Frozen Foods,Frozen Vegetables,2025-04-07,2026-03-26,10,boxes,43.6595,-79.435
+4,Loblaws – Dupont St,Dairy,Milk,2025-04-07,2025-04-13,23,liters,43.671,-79.4202
+9,Sobeys – The Queensway,Produce,Strawberries,2025-04-08,2025-04-10,12,packs,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Produce,Lettuce,2025-04-08,2025-04-11,45,liters,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Beverages,Fruit Smoothies,2025-04-08,2025-05-08,12,bottles,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Seafood,Tuna,2025-04-08,2025-04-10,48,liters,43.6392,-79.3905
+6,Metro – Front St E,Frozen,Frozen Chicken Nuggets,2023-10-05,2023-11-30,41,packs,43.6491,-79.373
+2,Anthony’s No Frills,Pantry,Salt,2025-04-07,2026-02-01,40,packs,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Soda,2025-04-08,2025-04-27,18,pieces,43.6392,-79.3905
+6,Metro – Front St E,Beverages,Soy Milk,2023-10-05,2023-12-04,15,liters,43.6491,-79.373
+3,Joe’s No Frills,Canned Goods,Canned Peaches,2025-04-07,2026-05-29,21,packs,43.6595,-79.435
+6,Metro – Front St E,Bakery,Tortillas,2023-10-05,2023-10-08,49,pieces,43.6491,-79.373
+10,Walmart Supercentre – St Clair Ave W,Dairy,String Cheese,2025-04-08,2025-04-13,15,packs,43.673,-79.48
+7,Metro – Ossington Ave,Beverages,Ground Coffee,2023-10-05,2023-12-02,8,packs,43.6485,-79.4205
+3,Joe’s No Frills,Canned Goods,Chickpeas,2025-04-07,2027-04-01,47,packs,43.6595,-79.435
+5,Loblaws – Dundas St W,Dairy,Yogurt,2025-04-07,2025-04-17,19,Packs,43.6542,-79.45
+2,Anthony’s No Frills,Dairy,Milk,2025-04-07,2025-04-15,15,liters,43.6377,-79.4365
+2,Anthony’s No Frills,Bakery,Bagels,2025-04-07,2025-04-10,22,packs,43.6377,-79.4365
+1,Jordan’s No Frills,Frozen,Frozen Berries,2025-04-07,2025-10-04,5,packages,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Dairy,Blue Cheese,2025-04-08,2025-04-13,5,wedges,43.673,-79.48
+3,Joe’s No Frills,Bakery,Pita Bread,2025-04-07,2025-04-11,6,loaves,43.6595,-79.435
+4,Loblaws – Dupont St,Bakery,Croissant,2025-04-07,2025-04-09,40,packs,43.671,-79.4202
+10,Walmart Supercentre – St Clair Ave W,Beverages,Kombucha,2025-04-08,2025-05-10,14,bottles,43.673,-79.48
+3,Joe’s No Frills,Vegetables,Broccoli,2025-04-07,2025-04-17,13,bunches,43.6595,-79.435
+7,Metro – Ossington Ave,Beverages,Soy Milk,2023-10-05,2023-10-23,4,liters,43.6485,-79.4205
+2,Anthony’s No Frills,Produce,Avocados,2025-04-07,2025-04-14,22,pieces,43.6377,-79.4365
+6,Metro – Front St E,Packaged,Lentils,2023-10-05,2023-11-03,44,kg,43.6491,-79.373
+1,Jordan’s No Frills,Frozen,Frozen Berries,2025-04-07,2026-04-03,3,packages,43.6406,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Chicken,2025-04-08,2025-04-12,7,liters,43.6392,-79.3905
+9,Sobeys – The Queensway,Meat,Lamb Chops,2025-04-08,2025-04-11,4,kg,43.636,-79.485
+9,Sobeys – The Queensway,Beverages,Soda,2025-04-08,2025-06-02,32,bottles,43.636,-79.485
+10,Walmart Supercentre – St Clair Ave W,Beverages,Cold Brew Coffee,2025-04-08,2025-05-15,12,bottles,43.673,-79.48
+4,Loblaws – Dupont St,Meat,Pork,2025-04-07,2025-04-12,14,Kg,43.671,-79.4202
+9,Sobeys – The Queensway,Frozen,Frozen Vegetables,2025-04-08,2025-06-22,25,bags,43.636,-79.485
+7,Metro – Ossington Ave,Beverages,Soy Milk,2023-10-05,2023-11-16,8,liters,43.6485,-79.4205
+1,Jordan’s No Frills,Frozen,Ice Cream,2025-04-07,2025-09-24,11,packages,43.6406,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Frozen Vegetables,2025-04-08,2025-06-09,31,liters,43.6392,-79.3905
+7,Metro – Ossington Ave,Dairy,Skim Milk,2023-10-05,2023-10-06,20,liters,43.6485,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Cereal,2025-04-08,2025-05-16,2,pieces,43.6392,-79.3905
+8,Sobeys Urban Fresh – Fort York Blvd,Produce,Lettuce,2025-04-08,2025-04-10,20,kg,43.6392,-79.3905
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Milk,2025-04-08,2025-04-11,12,pieces,43.6392,-79.3905
+5,Loblaws – Dundas St W,Seafood,Salmon,2025-04-07,2025-04-14,31,Units,43.6542,-79.45
+6,Metro – Front St E,Frozen,Frozen Blueberries,2023-10-05,2023-11-25,1,packs,43.6491,-79.373
+5,Loblaws – Dundas St W,Dairy,Milk,2025-04-07,2025-04-09,31,Liters,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Packaged,Mustard,2025-04-08,2025-05-25,12,bottles,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Frozen Vegetables,2025-04-08,2025-05-15,28,pieces,43.6392,-79.3905
+4,Loblaws – Dupont St,Beverages,Tea,2025-04-07,2025-05-07,10,liters,43.671,-79.4202
+1,Jordan’s No Frills,Bakery,Croissants,2025-04-07,2025-04-09,9,units,43.6406,-79.4205
+3,Joe’s No Frills,Canned Goods,Black Beans,2025-04-07,2028-01-23,9,cans,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Packaged,Couscous,2025-04-08,2025-06-08,7,boxes,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Pork,2025-04-08,2025-04-13,12,pieces,43.6392,-79.3905
+3,Joe’s No Frills,Meat,Lamb Chops,2025-04-07,2025-04-16,10,kg,43.6595,-79.435
+6,Metro – Front St E,Beverages,Orange Juice,2023-10-05,2023-10-24,29,liters,43.6491,-79.373
+3,Joe’s No Frills,Meat,Turkey,2025-04-07,2025-04-15,11,lb,43.6595,-79.435
+9,Sobeys – The Queensway,Frozen,Frozen Waffles,2025-04-08,2025-06-12,10,boxes,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Frozen Pizza,2025-04-08,2025-05-09,38,liters,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Packaged,Maple Syrup,2025-04-08,2025-06-10,6,bottles,43.673,-79.48
+4,Loblaws – Dupont St,Seafood,Salmon,2025-04-07,2025-04-12,25,Kg,43.671,-79.4202
+9,Sobeys – The Queensway,Packaged,Potato Chips,2025-04-08,2025-05-15,20,bags,43.636,-79.485
+1,Jordan’s No Frills,Produce,Tomatoes,2025-04-07,2025-04-18,18,bunches,43.6406,-79.4205
+6,Metro – Front St E,Produce,Broccoli,2023-10-05,2023-10-06,30,kg,43.6491,-79.373
+6,Metro – Front St E,Produce,Cucumbers,2023-10-05,2023-10-06,30,pieces,43.6491,-79.373
+9,Sobeys – The Queensway,Beverages,Apple Juice,2025-04-08,2025-05-15,14,liters,43.636,-79.485
+10,Walmart Supercentre – St Clair Ave W,Dairy,Kefir,2025-04-08,2025-04-12,7,bottles,43.673,-79.48
+10,Walmart Supercentre – St Clair Ave W,Produce,Eggplant,2025-04-08,2025-04-12,14,pieces,43.673,-79.48
+2,Anthony’s No Frills,Pantry,Canned Beans,2025-04-07,2026-01-01,45,cans,43.6377,-79.4365
+9,Sobeys – The Queensway,Frozen,Ice Cream,2025-04-08,2025-06-10,16,tubs,43.636,-79.485
+7,Metro – Ossington Ave,Produce,Carrots,2023-10-05,2023-10-09,10,kg,43.6485,-79.4205
+6,Metro – Front St E,Beverages,Chocolate Milk,2023-10-05,2023-11-28,28,liters,43.6491,-79.373
+8,Sobeys Urban Fresh – Fort York Blvd,Produce,Bananas,2025-04-08,2025-04-10,17,packs,43.6392,-79.3905
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Cereal,2025-04-08,2025-05-25,23,pieces,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Produce,Green Beans,2025-04-08,2025-04-11,13,kg,43.673,-79.48
+6,Metro – Front St E,Seafood,Tilapia,2023-10-05,2023-10-10,23,kg,43.6491,-79.373
+8,Sobeys Urban Fresh – Fort York Blvd,Seafood,Tuna,2025-04-08,2025-04-13,1,packs,43.6392,-79.3905
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Cereal,2025-04-08,2025-04-25,32,pieces,43.6392,-79.3905
+9,Sobeys – The Queensway,Bakery,Banana Bread,2025-04-08,2025-04-11,4,loaves,43.636,-79.485
+10,Walmart Supercentre – St Clair Ave W,Packaged,Protein Bars,2025-04-08,2025-05-20,26,boxes,43.673,-79.48
+6,Metro – Front St E,Bakery,Multigrain Bread,2023-10-05,2023-10-07,20,pieces,43.6491,-79.373
+3,Joe’s No Frills,Meat,Sausages,2025-04-07,2025-04-10,5,kg,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Frozen,Frozen Pie Crust,2025-04-08,2025-07-08,8,packs,43.673,-79.48
+10,Walmart Supercentre – St Clair Ave W,Meat,Beef Brisket,2025-04-08,2025-04-10,8,kg,43.673,-79.48
+6,Metro – Front St E,Dairy,Whipping Cream,2023-10-05,2023-10-08,32,liters,43.6491,-79.373
+3,Joe’s No Frills,Fish & Seafood,Tilapia,2025-04-07,2025-04-09,11,lb,43.6595,-79.435
+4,Loblaws – Dupont St,Dairy,Butter,2025-04-07,2025-04-16,6,liters,43.671,-79.4202
+1,Jordan’s No Frills,Meat,Pork Chops,2025-04-07,2025-04-16,24,kg,43.6406,-79.4205
+9,Sobeys – The Queensway,Dairy,Goat Cheese,2025-04-08,2025-04-12,4,packs,43.636,-79.485
+4,Loblaws – Dupont St,Dairy,Milk,2025-04-07,2025-04-11,42,liters,43.671,-79.4202
+9,Sobeys – The Queensway,Produce,Zucchini,2025-04-08,2025-04-11,9,kg,43.636,-79.485
+7,Metro – Ossington Ave,Dairy,Cottage Cheese,2023-10-05,2023-10-09,43,kg,43.6485,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Yogurt,2025-04-08,2025-04-12,7,packs,43.6392,-79.3905
+3,Joe’s No Frills,Frozen Foods,Frozen Waffles,2025-04-07,2025-09-13,16,boxes,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Croissant,2025-04-08,2025-04-12,5,packs,43.6392,-79.3905
+6,Metro – Front St E,Packaged,Brown Rice,2023-10-05,2023-11-04,15,kg,43.6491,-79.373
+3,Joe’s No Frills,Dairy,Cottage Cheese,2025-04-07,2025-04-30,11,liters,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Meat,Chicken Thighs,2025-04-08,2025-04-12,17,kg,43.673,-79.48
+7,Metro – Ossington Ave,Packaged,Brown Rice,2023-10-05,2023-11-17,17,kg,43.6485,-79.4205
+2,Anthony’s No Frills,Bakery,Brownies,2025-04-07,2025-04-13,15,pieces,43.6377,-79.4365
+2,Anthony’s No Frills,Pet Food,Dog Food,2025-04-07,2025-09-01,10,bags,43.6377,-79.4365
+6,Metro – Front St E,Frozen,Frozen Blueberries,2023-10-05,2023-12-15,17,packs,43.6491,-79.373
+2,Anthony’s No Frills,Seafood,Cod Fillet,2025-04-07,2025-04-13,9,kg,43.6377,-79.4365
+4,Loblaws – Dupont St,Produce,Bananas,2025-04-07,2025-04-10,6,Kg,43.671,-79.4202
+4,Loblaws – Dupont St,Confectionery,Chocolate,2025-04-07,2025-06-21,7,packs,43.671,-79.4202
+7,Metro – Ossington Ave,Meat,Beef Steak,2023-10-05,2023-10-08,46,kg,43.6485,-79.4205
+4,Loblaws – Dupont St,Produce,Lettuce,2025-04-07,2025-04-14,49,Kg,43.671,-79.4202
+3,Joe’s No Frills,Canned Goods,Baked Beans,2025-04-07,2027-04-27,42,packs,43.6595,-79.435
+9,Sobeys – The Queensway,Frozen,Frozen Burritos,2025-04-08,2025-06-15,12,packs,43.636,-79.485
+4,Loblaws – Dupont St,Meat,Beef,2025-04-07,2025-04-13,45,Kg,43.671,-79.4202
+3,Joe’s No Frills,Fruits,Bananas,2025-04-07,2025-04-20,7,pieces,43.6595,-79.435
+4,Loblaws – Dupont St,Seafood,Salmon,2025-04-07,2025-04-08,19,Kg,43.671,-79.4202
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Soda,2025-04-08,2025-06-05,42,packs,43.6392,-79.3905
+8,Sobeys Urban Fresh – Fort York Blvd,Seafood,Salmon,2025-04-08,2025-04-10,28,pieces,43.6392,-79.3905
+4,Loblaws – Dupont St,Beverages,Tea,2025-04-07,2025-05-09,18,liters,43.671,-79.4202
+3,Joe’s No Frills,Bakery,Whole Wheat Bread,2025-04-07,2025-04-14,3,pieces,43.6595,-79.435
+5,Loblaws – Dundas St W,Seafood,Shrimp,2025-04-07,2025-04-16,19,Packs,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Meat,Ribeye Steak,2025-04-08,2025-04-11,10,kg,43.673,-79.48
+7,Metro – Ossington Ave,Dairy,Greek Yogurt,2023-10-05,2023-10-06,6,packs,43.6485,-79.4205
+4,Loblaws – Dupont St,Beverages,Tea,2025-04-07,2025-05-17,28,liters,43.671,-79.4202
+5,Loblaws – Dundas St W,Beverages,Water,2025-04-07,2025-05-22,1,Units,43.6542,-79.45
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Croissant,2025-04-08,2025-04-11,28,liters,43.6392,-79.3905
+6,Metro – Front St E,Frozen,Frozen French Fries,2023-10-05,2023-11-15,3,packs,43.6491,-79.373
+3,Joe’s No Frills,Meat,Pork Chops,2025-04-07,2025-04-15,2,packs,43.6595,-79.435
+2,Anthony’s No Frills,Beverages,Soda,2025-04-07,2025-06-01,24,cans,43.6377,-79.4365
+4,Loblaws – Dupont St,Dairy,Butter,2025-04-07,2025-04-16,3,liters,43.671,-79.4202
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Beef,2025-04-08,2025-04-13,43,pieces,43.6392,-79.3905
+7,Metro – Ossington Ave,Packaged,Cereal,2023-10-05,2023-11-13,18,packs,43.6485,-79.4205
+7,Metro – Ossington Ave,Produce,Romaine Lettuce,2023-10-05,2023-10-09,34,pieces,43.6485,-79.4205
+7,Metro – Ossington Ave,Dairy,Sour Cream,2023-10-05,2023-10-06,18,kg,43.6485,-79.4205
+3,Joe’s No Frills,Bakery,Donuts,2025-04-07,2025-04-16,9,pieces,43.6595,-79.435
+4,Loblaws – Dupont St,Dairy,Cheese,2025-04-07,2025-04-17,19,liters,43.671,-79.4202
+4,Loblaws – Dupont St,Confectionery,Chocolate,2025-04-07,2026-02-24,37,packs,43.671,-79.4202
+6,Metro – Front St E,Beverages,Almond Milk,2023-10-05,2023-11-15,39,liters,43.6491,-79.373
+2,Anthony’s No Frills,Produce,Grapes,2025-04-07,2025-04-15,25,kg,43.6377,-79.4365
+4,Loblaws – Dupont St,Beverages,Water,2025-04-07,2025-05-25,32,liters,43.671,-79.4202
+6,Metro – Front St E,Dairy,Cream Cheese,2023-10-05,2023-10-09,11,kg,43.6491,-79.373
+5,Loblaws – Dundas St W,Snacks,Chips,2025-04-07,2025-08-21,49,Liters,43.6542,-79.45
+4,Loblaws – Dupont St,Produce,Bananas,2025-04-07,2025-04-12,39,Kg,43.671,-79.4202
+7,Metro – Ossington Ave,Beverages,Apple Juice,2023-10-05,2023-10-29,41,liters,43.6485,-79.4205
+6,Metro – Front St E,Bakery,Bagels,2023-10-05,2023-10-09,49,pieces,43.6491,-79.373
+9,Sobeys – The Queensway,Meat,Bacon,2025-04-08,2025-04-12,9,packs,43.636,-79.485
+9,Sobeys – The Queensway,Frozen,Frozen Berries,2025-04-08,2025-06-15,14,bags,43.636,-79.485
+5,Loblaws – Dundas St W,Dairy,Milk,2025-04-07,2025-04-15,17,Packs,43.6542,-79.45
+9,Sobeys – The Queensway,Produce,Potatoes,2025-04-08,2025-04-13,40,kg,43.636,-79.485
+1,Jordan’s No Frills,Dairy,Yogurt,2025-04-07,2025-04-08,23,kg,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Bakery,Fruit Tarts,2025-04-08,2025-04-09,10,pieces,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Pasta,2025-04-08,2025-05-07,40,liters,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Frozen,Hash Browns,2025-04-08,2025-06-22,13,bags,43.673,-79.48
+3,Joe’s No Frills,Dairy,Eggs,2025-04-07,2025-04-16,16,pieces,43.6595,-79.435
+2,Anthony’s No Frills,Produce,Bell Peppers,2025-04-07,2025-04-16,18,kg,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Chicken,2025-04-08,2025-04-09,21,kg,43.6392,-79.3905
+7,Metro – Ossington Ave,Beverages,Green Tea,2023-10-05,2023-11-18,3,packs,43.6485,-79.4205
+9,Sobeys – The Queensway,Produce,Kale,2025-04-08,2025-04-10,10,bunches,43.636,-79.485
+9,Sobeys – The Queensway,Frozen,Frozen Chicken Nuggets,2025-04-08,2025-06-20,16,boxes,43.636,-79.485
+7,Metro – Ossington Ave,Bakery,Sourdough Bread,2023-10-05,2023-10-10,18,pieces,43.6485,-79.4205
+7,Metro – Ossington Ave,Meat,Ham,2023-10-05,2023-10-09,49,kg,43.6485,-79.4205
+4,Loblaws – Dupont St,Beverages,Coffee,2025-04-07,2025-05-24,6,liters,43.671,-79.4202
+1,Jordan’s No Frills,Produce,Bananas,2025-04-07,2025-04-17,35,kg,43.6406,-79.4205
+3,Joe’s No Frills,Bakery,White Bread,2025-04-07,2025-04-12,4,packs,43.6595,-79.435
+9,Sobeys – The Queensway,Seafood,Shrimp,2025-04-08,2025-04-09,8,kg,43.636,-79.485
+4,Loblaws – Dupont St,Produce,Lettuce,2025-04-07,2025-04-14,41,Kg,43.671,-79.4202
+1,Jordan’s No Frills,Dairy,Yogurt,2025-04-07,2025-04-16,9,liters,43.6406,-79.4205
+7,Metro – Ossington Ave,Seafood,Salmon Fillet,2023-10-05,2023-10-10,47,kg,43.6485,-79.4205
+9,Sobeys – The Queensway,Produce,Romaine Lettuce,2025-04-08,2025-04-10,18,heads,43.636,-79.485
+7,Metro – Ossington Ave,Meat,Pork Tenderloin,2023-10-05,2023-10-07,41,kg,43.6485,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Frozen Vegetables,2025-04-08,2025-05-28,20,pieces,43.6392,-79.3905
+2,Anthony’s No Frills,Dairy,Ricotta Cheese,2025-04-07,2025-04-23,9,kg,43.6377,-79.4365
+3,Joe’s No Frills,Meat,Meatballs,2025-04-07,2025-04-14,8,kg,43.6595,-79.435
+4,Loblaws – Dupont St,Confectionery,Gum,2025-04-07,2025-11-04,14,packs,43.671,-79.4202
+5,Loblaws – Dundas St W,Meat,Beef,2025-04-07,2025-04-21,48,Liters,43.6542,-79.45
+2,Anthony’s No Frills,Dairy,Custard,2025-04-07,2025-04-17,20,packs,43.6377,-79.4365
+1,Jordan’s No Frills,Frozen,Mixed Vegetables,2025-04-07,2026-01-15,49,kg,43.6406,-79.4205
+1,Jordan’s No Frills,Bakery,Bread,2025-04-07,2025-04-10,32,units,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Beverages,Cranberry Juice,2025-04-08,2025-05-12,16,liters,43.673,-79.48
+2,Anthony’s No Frills,Meat,Beef Steak,2025-04-07,2025-04-13,7,kg,43.6377,-79.4365
+2,Anthony’s No Frills,Snacks,Potato Chips,2025-04-07,2025-07-01,30,bags,43.6377,-79.4365
+9,Sobeys – The Queensway,Dairy,Cheddar Cheese,2025-04-08,2025-04-13,15,packs,43.636,-79.485
+10,Walmart Supercentre – St Clair Ave W,Produce,Artichokes,2025-04-08,2025-04-11,8,pieces,43.673,-79.48
+6,Metro – Front St E,Seafood,Fresh Tuna,2023-10-05,2023-10-06,35,kg,43.6491,-79.373
+4,Loblaws – Dupont St,Meat,Beef,2025-04-07,2025-04-10,34,Kg,43.671,-79.4202
+3,Joe’s No Frills,Canned Goods,Canned Tuna,2025-04-07,2028-03-25,15,cans,43.6595,-79.435
+9,Sobeys – The Queensway,Packaged,Olive Oil,2025-04-08,2025-06-08,5,bottles,43.636,-79.485
+3,Joe’s No Frills,Bakery,Whole Wheat Bread,2025-04-07,2025-04-14,3,pieces,43.6595,-79.435
+2,Anthony’s No Frills,Meat,Sausages,2025-04-07,2025-04-11,15,packs,43.6377,-79.4365
+10,Walmart Supercentre – St Clair Ave W,Produce,Leeks,2025-04-08,2025-04-12,10,bunches,43.673,-79.48
+6,Metro – Front St E,Packaged,Potato Chips,2023-10-05,2023-11-30,26,packs,43.6491,-79.373
+9,Sobeys – The Queensway,Beverages,Energy Drinks,2025-04-08,2025-05-28,22,cans,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Frozen Vegetables,2025-04-08,2025-06-01,23,kg,43.6392,-79.3905
+1,Jordan’s No Frills,Dairy,Butter,2025-04-07,2025-04-12,5,kg,43.6406,-79.4205
+4,Loblaws – Dupont St,Bakery,Bagel,2025-04-07,2025-04-12,49,packs,43.671,-79.4202
+5,Loblaws – Dundas St W,Produce,Bananas,2025-04-07,2025-04-14,43,Units,43.6542,-79.45
+6,Metro – Front St E,Packaged,Instant Noodles,2023-10-05,2023-10-24,37,packs,43.6491,-79.373
+4,Loblaws – Dupont St,Produce,Lettuce,2025-04-07,2025-04-13,15,Kg,43.671,-79.4202
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Chicken,2025-04-08,2025-04-11,41,pieces,43.6392,-79.3905
+3,Joe’s No Frills,Frozen Foods,Frozen Fries,2025-04-07,2025-10-21,6,packs,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Ice Cream,2025-04-08,2025-05-29,48,packs,43.6392,-79.3905
+9,Sobeys – The Queensway,Produce,Blueberries,2025-04-08,2025-04-11,14,packs,43.636,-79.485
+5,Loblaws – Dundas St W,Snacks,Chips,2025-04-07,2025-08-13,46,Packs,43.6542,-79.45
+5,Loblaws – Dundas St W,Bakery,Croissant,2025-04-07,2025-04-18,35,Liters,43.6542,-79.45
+6,Metro – Front St E,Frozen,Frozen Broccoli,2023-10-05,2023-11-13,9,packs,43.6491,-79.373
+5,Loblaws – Dundas St W,Dairy,Yogurt,2025-04-07,2025-04-19,13,Liters,43.6542,-79.45
+3,Joe’s No Frills,Vegetables,Onions,2025-04-07,2025-04-21,25,bunches,43.6595,-79.435
+1,Jordan’s No Frills,Meat,Ground Beef,2025-04-07,2025-04-11,8,kg,43.6406,-79.4205
+4,Loblaws – Dupont St,Bakery,Donut,2025-04-07,2025-04-11,6,packs,43.671,-79.4202
+9,Sobeys – The Queensway,Packaged,Peanut Butter,2025-04-08,2025-05-28,12,jars,43.636,-79.485
+1,Jordan’s No Frills,Bakery,Donuts,2025-04-07,2025-04-20,29,dozens,43.6406,-79.4205
+3,Joe’s No Frills,Dairy,Yogurt,2025-04-07,2025-04-17,9,gallons,43.6595,-79.435
+9,Sobeys – The Queensway,Packaged,Oatmeal,2025-04-08,2025-05-30,14,boxes,43.636,-79.485
+7,Metro – Ossington Ave,Bakery,Blueberry Muffins,2023-10-05,2023-10-06,19,pieces,43.6485,-79.4205
+9,Sobeys – The Queensway,Meat,Sausages,2025-04-08,2025-04-11,14,packs,43.636,-79.485
+5,Loblaws – Dundas St W,Seafood,Shrimp,2025-04-07,2025-04-13,49,Liters,43.6542,-79.45
+1,Jordan’s No Frills,Canned,Vegetable Soup,2025-04-07,2026-01-15,38,cans,43.6406,-79.4205
+4,Loblaws – Dupont St,Beverages,Coffee,2025-04-07,2025-05-28,33,liters,43.671,-79.4202
+5,Loblaws – Dundas St W,Bakery,Bread,2025-04-07,2025-04-19,45,Units,43.6542,-79.45
+1,Jordan’s No Frills,Canned,Tuna in Water,2025-04-07,2026-04-02,27,cans,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Seafood,Lobster Tails,2025-04-08,2025-04-10,4,kg,43.673,-79.48
+10,Walmart Supercentre – St Clair Ave W,Produce,Red Cabbage,2025-04-08,2025-04-13,9,heads,43.673,-79.48
+5,Loblaws – Dundas St W,Bakery,Bread,2025-04-07,2025-04-19,12,Kg,43.6542,-79.45
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Frozen Vegetables,2025-04-08,2025-07-03,23,kg,43.6392,-79.3905
+7,Metro – Ossington Ave,Frozen,Frozen Broccoli,2023-10-05,2023-11-18,19,packs,43.6485,-79.4205
+9,Sobeys – The Queensway,Dairy,Whole Milk,2025-04-08,2025-04-12,32,liters,43.636,-79.485
+6,Metro – Front St E,Bakery,Baguette,2023-10-05,2023-10-10,41,pieces,43.6491,-79.373
+3,Joe’s No Frills,Fruits,Avocados,2025-04-07,2025-04-21,10,lb,43.6595,-79.435
+1,Jordan’s No Frills,Frozen,Frozen Berries,2025-04-07,2025-08-03,48,packages,43.6406,-79.4205
+3,Joe’s No Frills,Meat,Ham,2025-04-07,2025-04-11,3,lb,43.6595,-79.435
+3,Joe’s No Frills,Vegetables,Lettuce,2025-04-07,2025-04-19,12,lb,43.6595,-79.435
+9,Sobeys – The Queensway,Seafood,Cod Fillets,2025-04-08,2025-04-10,6,kg,43.636,-79.485
+4,Loblaws – Dupont St,Confectionery,Gum,2025-04-07,2026-01-12,5,packs,43.671,-79.4202
+7,Metro – Ossington Ave,Frozen,Vanilla Ice Cream,2023-10-05,2023-12-05,37,liters,43.6485,-79.4205
+6,Metro – Front St E,Dairy,Cream Cheese,2023-10-05,2023-10-08,44,kg,43.6491,-79.373
+7,Metro – Ossington Ave,Frozen,Frozen Chicken Nuggets,2023-10-05,2023-12-06,21,packs,43.6485,-79.4205
+3,Joe’s No Frills,Canned Goods,Canned Corn,2025-04-07,2026-07-25,24,cans,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Bagel,2025-04-08,2025-04-11,11,packs,43.6392,-79.3905
+4,Loblaws – Dupont St,Seafood,Shrimp,2025-04-07,2025-04-10,11,Kg,43.671,-79.4202
+10,Walmart Supercentre – St Clair Ave W,Frozen,Tater Tots,2025-04-08,2025-06-25,11,bags,43.673,-79.48
+10,Walmart Supercentre – St Clair Ave W,Dairy,Half and Half,2025-04-08,2025-04-11,9,liters,43.673,-79.48
+10,Walmart Supercentre – St Clair Ave W,Produce,Mangoes,2025-04-08,2025-04-11,18,pieces,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Seafood,Tuna,2025-04-08,2025-04-11,42,kg,43.6392,-79.3905
+6,Metro – Front St E,Produce,Fuji Apples,2023-10-05,2023-10-08,12,kg,43.6491,-79.373
+1,Jordan’s No Frills,Produce,Tomatoes,2025-04-07,2025-04-16,30,units,43.6406,-79.4205
+9,Sobeys – The Queensway,Produce,Sweet Potatoes,2025-04-08,2025-04-13,20,kg,43.636,-79.485
+6,Metro – Front St E,Bakery,Bagels,2023-10-05,2023-10-10,42,pieces,43.6491,-79.373
+5,Loblaws – Dundas St W,Dairy,Yogurt,2025-04-07,2025-04-16,26,Units,43.6542,-79.45
+1,Jordan’s No Frills,Canned,Tomato Sauce,2025-04-07,2026-01-23,37,units,43.6406,-79.4205
+5,Loblaws – Dundas St W,Beverages,Juice,2025-04-07,2025-07-01,5,Kg,43.6542,-79.45
+4,Loblaws – Dupont St,Bakery,Bagel,2025-04-07,2025-04-10,1,packs,43.671,-79.4202
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Milk,2025-04-08,2025-04-13,8,liters,43.6392,-79.3905
+9,Sobeys – The Queensway,Bakery,Bagels,2025-04-08,2025-04-09,22,packs,43.636,-79.485
+6,Metro – Front St E,Beverages,Iced Tea,2023-10-05,2023-10-24,44,liters,43.6491,-79.373
+1,Jordan’s No Frills,Dairy,Cream,2025-04-07,2025-04-18,8,kg,43.6406,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Pasta,2025-04-08,2025-04-30,6,packs,43.6392,-79.3905
+9,Sobeys – The Queensway,Meat,Turkey Breast,2025-04-08,2025-04-10,5,kg,43.636,-79.485
+7,Metro – Ossington Ave,Produce,Tomatoes,2023-10-05,2023-10-07,19,kg,43.6485,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Bakery,Blueberry Muffins,2025-04-08,2025-04-10,14,packs,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Ice Cream,2025-04-08,2025-05-18,31,pieces,43.6392,-79.3905
+9,Sobeys – The Queensway,Seafood,Tuna Steaks,2025-04-08,2025-04-10,6,kg,43.636,-79.485
+5,Loblaws – Dundas St W,Dairy,Cheese,2025-04-07,2025-04-21,8,Kg,43.6542,-79.45
+9,Sobeys – The Queensway,Packaged,Honey,2025-04-08,2025-06-15,7,jars,43.636,-79.485
+2,Anthony’s No Frills,Meat,Lamb Chops,2025-04-07,2025-04-12,6,kg,43.6377,-79.4365
+6,Metro – Front St E,Packaged,Peanut Butter,2023-10-05,2023-11-30,34,packs,43.6491,-79.373
+1,Jordan’s No Frills,Dairy,Cheese,2025-04-07,2025-04-15,22,kg,43.6406,-79.4205
+1,Jordan’s No Frills,Canned,Vegetable Soup,2025-04-07,2025-09-08,50,cans,43.6406,-79.4205
+6,Metro – Front St E,Seafood,Herring,2023-10-05,2023-10-09,25,kg,43.6491,-79.373
+6,Metro – Front St E,Beverages,Lemonade,2023-10-05,2023-11-02,21,liters,43.6491,-79.373
+10,Walmart Supercentre – St Clair Ave W,Produce,Dragon Fruit,2025-04-08,2025-04-11,7,pieces,43.673,-79.48
+9,Sobeys – The Queensway,Packaged,Trail Mix,2025-04-08,2025-05-22,11,packs,43.636,-79.485
+2,Anthony’s No Frills,Seafood,Salmon Fillet,2025-04-07,2025-04-11,8,kg,43.6377,-79.4365
+10,Walmart Supercentre – St Clair Ave W,Produce,Cauliflower,2025-04-08,2025-04-12,11,heads,43.673,-79.48
+7,Metro – Ossington Ave,Produce,Cucumbers,2023-10-05,2023-10-08,5,pieces,43.6485,-79.4205
+1,Jordan’s No Frills,Produce,Bananas,2025-04-07,2025-04-18,13,units,43.6406,-79.4205
+1,Jordan’s No Frills,Meat,Pork Chops,2025-04-07,2025-04-19,16,packages,43.6406,-79.4205
+5,Loblaws – Dundas St W,Beverages,Water,2025-04-07,2025-09-09,40,Liters,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Packaged,Pretzels,2025-04-08,2025-05-10,16,bags,43.673,-79.48
+3,Joe’s No Frills,Frozen Foods,Frozen Meals,2025-04-07,2026-04-02,20,packs,43.6595,-79.435
+3,Joe’s No Frills,Canned Goods,Baked Beans,2025-04-07,2027-04-27,42,packs,43.6595,-79.435
+1,Jordan’s No Frills,Bakery,Croissants,2025-04-07,2025-04-15,12,loaves,43.6406,-79.4205
+6,Metro – Front St E,Bakery,Baguette,2023-10-05,2023-10-10,22,pieces,43.6491,-79.373
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Water,2025-04-08,2025-05-28,18,liters,43.6392,-79.3905
+9,Sobeys – The Queensway,Dairy,Heavy Cream,2025-04-08,2025-04-12,6,liters,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Produce,Lettuce,2025-04-08,2025-04-10,23,liters,43.6392,-79.3905
+6,Metro – Front St E,Dairy,Ricotta Cheese,2023-10-05,2023-10-09,33,kg,43.6491,-79.373
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Bread,2025-04-08,2025-04-12,34,liters,43.6392,-79.3905
+4,Loblaws – Dupont St,Beverages,Water,2025-04-07,2025-05-06,16,liters,43.671,-79.4202
+3,Joe’s No Frills,Bakery,Baguette,2025-04-07,2025-04-12,25,packs,43.6595,-79.435
+1,Jordan’s No Frills,Bakery,Muffins,2025-04-07,2025-04-12,47,units,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Frozen,Gelato,2025-04-08,2025-06-15,10,tubs,43.673,-79.48
+4,Loblaws – Dupont St,Confectionery,Candy,2025-04-07,2025-11-17,15,packs,43.671,-79.4202
+9,Sobeys – The Queensway,Packaged,Granola Bars,2025-04-08,2025-05-18,18,boxes,43.636,-79.485
+4,Loblaws – Dupont St,Dairy,Milk,2025-04-07,2025-04-17,32,liters,43.671,-79.4202
+6,Metro – Front St E,Beverages,Ground Coffee,2023-10-05,2023-10-20,1,packs,43.6491,-79.373
+3,Joe’s No Frills,Meat,Pork Chops,2025-04-07,2025-04-15,2,packs,43.6595,-79.435
+4,Loblaws – Dupont St,Confectionery,Candy,2025-04-07,2025-08-03,43,packs,43.671,-79.4202
+6,Metro – Front St E,Dairy,Butter Milk,2023-10-05,2023-10-10,18,liters,43.6491,-79.373
+4,Loblaws – Dupont St,Bakery,Bread,2025-04-07,2025-04-08,4,packs,43.671,-79.4202
+9,Sobeys – The Queensway,Seafood,Crab Legs,2025-04-08,2025-04-09,4,kg,43.636,-79.485
+5,Loblaws – Dundas St W,Beverages,Soda,2025-04-07,2025-07-31,24,Kg,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Produce,Brussels Sprouts,2025-04-08,2025-04-12,15,kg,43.673,-79.48
+7,Metro – Ossington Ave,Dairy,Cheddar Cheese,2023-10-05,2023-10-08,31,kg,43.6485,-79.4205
+5,Loblaws – Dundas St W,Snacks,Cookies,2025-04-07,2025-09-26,18,Kg,43.6542,-79.45
+1,Jordan’s No Frills,Meat,Pork Chops,2025-04-07,2025-04-10,9,kg,43.6406,-79.4205
+4,Loblaws – Dupont St,Beverages,Soda,2025-04-07,2025-04-30,39,liters,43.671,-79.4202
+5,Loblaws – Dundas St W,Meat,Chicken,2025-04-07,2025-04-18,18,Units,43.6542,-79.45
+2,Anthony’s No Frills,Produce,Lemons,2025-04-07,2025-04-19,30,pieces,43.6377,-79.4365
+1,Jordan’s No Frills,Bakery,Croissants,2025-04-07,2025-04-19,16,units,43.6406,-79.4205
+5,Loblaws – Dundas St W,Beverages,Water,2025-04-07,2025-07-03,25,Packs,43.6542,-79.45
+9,Sobeys – The Queensway,Produce,Apples,2025-04-08,2025-04-13,35,kg,43.636,-79.485
+2,Anthony’s No Frills,Pantry,Soy Sauce,2025-04-07,2025-10-15,12,bottles,43.6377,-79.4365
+10,Walmart Supercentre – St Clair Ave W,Dairy,Ricotta Cheese,2025-04-08,2025-04-10,8,tubs,43.673,-79.48
+1,Jordan’s No Frills,Dairy,Butter,2025-04-07,2025-04-11,39,kg,43.6406,-79.4205
+4,Loblaws – Dupont St,Produce,Lettuce,2025-04-07,2025-04-11,12,Kg,43.671,-79.4202
+3,Joe’s No Frills,Bakery,Cookies,2025-04-07,2025-04-18,4,packs,43.6595,-79.435
+2,Anthony’s No Frills,Produce,Apples,2025-04-07,2025-04-20,40,kg,43.6377,-79.4365
+7,Metro – Ossington Ave,Packaged,Canned Kidney Beans,2023-10-05,2023-11-18,8,packs,43.6485,-79.4205
+7,Metro – Ossington Ave,Meat,Ham,2023-10-05,2023-10-09,40,kg,43.6485,-79.4205
+6,Metro – Front St E,Seafood,Crab Meat,2023-10-05,2023-10-10,26,kg,43.6491,-79.373
+2,Anthony’s No Frills,Produce,Lettuce,2025-04-07,2025-04-14,25,heads,43.6377,-79.4365
+4,Loblaws – Dupont St,Beverages,Water,2025-04-07,2025-04-29,10,liters,43.671,-79.4202
+6,Metro – Front St E,Dairy,Cream Cheese,2023-10-05,2023-10-06,39,kg,43.6491,-79.373
+3,Joe’s No Frills,Vegetables,Onions,2025-04-07,2025-04-21,25,bunches,43.6595,-79.435
+2,Anthony’s No Frills,Meat,Chicken Wings,2025-04-07,2025-04-10,18,kg,43.6377,-79.4365
+5,Loblaws – Dundas St W,Dairy,Yogurt,2025-04-07,2025-04-21,46,Packs,43.6542,-79.45
+7,Metro – Ossington Ave,Produce,Onions,2023-10-05,2023-10-07,26,kg,43.6485,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Bakery,Chocolate Chip Cookies,2025-04-08,2025-04-10,22,packs,43.673,-79.48
+9,Sobeys – The Queensway,Packaged,Crackers,2025-04-08,2025-05-12,14,boxes,43.636,-79.485
+1,Jordan’s No Frills,Produce,Apples,2025-04-07,2025-04-10,46,units,43.6406,-79.4205
+9,Sobeys – The Queensway,Seafood,Salmon Fillets,2025-04-08,2025-04-10,10,kg,43.636,-79.485
+5,Loblaws – Dundas St W,Produce,Apples,2025-04-07,2025-04-16,40,Kg,43.6542,-79.45
+3,Joe’s No Frills,Bakery,Bagels,2025-04-07,2025-04-19,17,packs,43.6595,-79.435
+7,Metro – Ossington Ave,Produce,Spinach,2023-10-05,2023-10-06,38,kg,43.6485,-79.4205
+7,Metro – Ossington Ave,Frozen,Vanilla Ice Cream,2023-10-05,2023-12-12,19,liters,43.6485,-79.4205
+1,Jordan’s No Frills,Frozen,Frozen Berries,2025-04-07,2025-10-20,4,packages,43.6406,-79.4205
+5,Loblaws – Dundas St W,Bakery,Bagel,2025-04-07,2025-04-14,28,Units,43.6542,-79.45
+7,Metro – Ossington Ave,Dairy,Greek Yogurt,2023-10-05,2023-10-10,47,packs,43.6485,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Croissant,2025-04-08,2025-04-13,4,kg,43.6392,-79.3905
+9,Sobeys – The Queensway,Meat,Ground Turkey,2025-04-08,2025-04-11,10,kg,43.636,-79.485
+1,Jordan’s No Frills,Canned,Baked Beans,2025-04-07,2026-01-23,31,cans,43.6406,-79.4205
+4,Loblaws – Dupont St,Confectionery,Gum,2025-04-07,2025-11-10,23,packs,43.671,-79.4202
+2,Anthony’s No Frills,Household,Laundry Detergent,2025-04-07,2026-01-01,15,bottles,43.6377,-79.4365
+7,Metro – Ossington Ave,Beverages,Almond Milk,2023-10-05,2023-11-25,30,liters,43.6485,-79.4205
+6,Metro – Front St E,Bakery,Croissants,2023-10-05,2023-10-08,24,pieces,43.6491,-79.373
+2,Anthony’s No Frills,Pantry,Pasta,2025-04-07,2025-07-15,50,packs,43.6377,-79.4365
+3,Joe’s No Frills,Dairy,Yogurt,2025-04-07,2025-04-17,9,gallons,43.6595,-79.435
+5,Loblaws – Dundas St W,Bakery,Croissant,2025-04-07,2025-04-11,39,Kg,43.6542,-79.45
+1,Jordan’s No Frills,Bakery,Croissants,2025-04-07,2025-04-21,30,loaves,43.6406,-79.4205
+3,Joe’s No Frills,Canned Goods,Canned Peaches,2025-04-07,2026-05-29,21,packs,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Bakery,Challah Bread,2025-04-08,2025-04-10,4,loaves,43.673,-79.48
+5,Loblaws – Dundas St W,Bakery,Croissant,2025-04-07,2025-04-10,45,Packs,43.6542,-79.45
+5,Loblaws – Dundas St W,Bakery,Croissant,2025-04-07,2025-04-09,2,Liters,43.6542,-79.45
+6,Metro – Front St E,Frozen,Frozen Broccoli,2023-10-05,2023-12-04,18,packs,43.6491,-79.373
+5,Loblaws – Dundas St W,Produce,Apples,2025-04-07,2025-04-14,2,Packs,43.6542,-79.45
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Cereal,2025-04-08,2025-05-18,41,kg,43.6392,-79.3905
+7,Metro – Ossington Ave,Frozen,Vanilla Ice Cream,2023-10-05,2023-11-30,30,liters,43.6485,-79.4205
+7,Metro – Ossington Ave,Beverages,Orange Juice,2023-10-05,2023-10-24,2,liters,43.6485,-79.4205
+7,Metro – Ossington Ave,Packaged,Brown Rice,2023-10-05,2023-10-21,27,kg,43.6485,-79.4205
+5,Loblaws – Dundas St W,Meat,Chicken,2025-04-07,2025-04-16,33,Units,43.6542,-79.45
+4,Loblaws – Dupont St,Beverages,Tea,2025-04-07,2025-05-08,23,liters,43.671,-79.4202
+1,Jordan’s No Frills,Dairy,Butter,2025-04-07,2025-04-18,40,liters,43.6406,-79.4205
+1,Jordan’s No Frills,Frozen,Pizza,2025-04-07,2025-10-06,17,units,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Produce,Belgian Endive,2025-04-08,2025-04-10,6,packs,43.673,-79.48
+5,Loblaws – Dundas St W,Seafood,Shrimp,2025-04-07,2025-04-20,30,Units,43.6542,-79.45
+5,Loblaws – Dundas St W,Seafood,Shrimp,2025-04-07,2025-04-18,18,Liters,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Frozen,Stir-Fry Vegetables,2025-04-08,2025-06-20,15,bags,43.673,-79.48
+9,Sobeys – The Queensway,Frozen,Frozen Pizza,2025-04-08,2025-07-01,22,pieces,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Water,2025-04-08,2025-04-28,25,packs,43.6392,-79.3905
+7,Metro – Ossington Ave,Bakery,Chocolate Cake,2023-10-05,2023-10-09,43,pieces,43.6485,-79.4205
+1,Jordan’s No Frills,Bakery,Muffins,2025-04-07,2025-04-09,23,units,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Produce,Fennel,2025-04-08,2025-04-12,9,bulbs,43.673,-79.48
+9,Sobeys – The Queensway,Bakery,Cupcakes,2025-04-08,2025-04-10,15,pieces,43.636,-79.485
+6,Metro – Front St E,Dairy,Sour Cream,2023-10-05,2023-10-09,19,kg,43.6491,-79.373
+2,Anthony’s No Frills,Pantry,Rice,2025-04-07,2025-08-01,60,packs,43.6377,-79.4365
+10,Walmart Supercentre – St Clair Ave W,Meat,Beef Short Ribs,2025-04-08,2025-04-12,9,kg,43.673,-79.48
+6,Metro – Front St E,Meat,Turkey Legs,2023-10-05,2023-10-08,29,kg,43.6491,-79.373
+3,Joe’s No Frills,Bakery,Cinnamon Rolls,2025-04-07,2025-04-13,18,loaves,43.6595,-79.435
+9,Sobeys – The Queensway,Packaged,Canned Beans,2025-04-08,2025-06-10,32,cans,43.636,-79.485
+6,Metro – Front St E,Produce,Zucchini,2023-10-05,2023-10-07,10,kg,43.6491,-79.373
+6,Metro – Front St E,Beverages,Almond Milk,2023-10-05,2023-10-25,41,liters,43.6491,-79.373
+2,Anthony’s No Frills,Produce,Spinach,2025-04-07,2025-04-11,15,kg,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Cheese,2025-04-08,2025-04-09,40,pieces,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Seafood,Fish Fillets,2025-04-08,2025-04-10,11,kg,43.673,-79.48
+4,Loblaws – Dupont St,Meat,Beef,2025-04-07,2025-04-08,19,Kg,43.671,-79.4202
+4,Loblaws – Dupont St,Meat,Pork,2025-04-07,2025-04-08,38,Kg,43.671,-79.4202
+1,Jordan’s No Frills,Meat,Pork Chops,2025-04-07,2025-04-17,11,packages,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Seafood,Bay Scallops,2025-04-08,2025-04-09,9,kg,43.673,-79.48
+9,Sobeys – The Queensway,Bakery,Focaccia,2025-04-08,2025-04-10,5,loaves,43.636,-79.485
+7,Metro – Ossington Ave,Meat,Turkey Breast,2023-10-05,2023-10-10,40,kg,43.6485,-79.4205
+6,Metro – Front St E,Frozen,Frozen Mango Chunks,2023-10-05,2023-12-27,39,packs,43.6491,-79.373
+5,Loblaws – Dundas St W,Meat,Pork,2025-04-07,2025-04-18,1,Packs,43.6542,-79.45
+2,Anthony’s No Frills,Dairy,Evaporated Milk,2025-04-07,2025-04-28,10,cans,43.6377,-79.4365
+7,Metro – Ossington Ave,Produce,Romaine Lettuce,2023-10-05,2023-10-07,41,pieces,43.6485,-79.4205
+6,Metro – Front St E,Packaged,Brown Rice,2023-10-05,2023-11-29,32,kg,43.6491,-79.373
+9,Sobeys – The Queensway,Bakery,Cinnamon Rolls,2025-04-08,2025-04-11,6,packs,43.636,-79.485
+2,Anthony’s No Frills,Produce,Potatoes,2025-04-07,2025-04-22,35,kg,43.6377,-79.4365
+2,Anthony’s No Frills,Dairy,Condensed Milk,2025-04-07,2025-05-01,12,cans,43.6377,-79.4365
+7,Metro – Ossington Ave,Packaged,Potato Chips,2023-10-05,2023-11-15,6,packs,43.6485,-79.4205
+5,Loblaws – Dundas St W,Snacks,Nuts,2025-04-07,2025-10-02,29,Kg,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Meat,Pork Tenderloin,2025-04-08,2025-04-11,7,kg,43.673,-79.48
+5,Loblaws – Dundas St W,Beverages,Juice,2025-04-07,2025-07-25,49,Packs,43.6542,-79.45
+6,Metro – Front St E,Meat,Veal Cutlet,2023-10-05,2023-10-07,40,kg,43.6491,-79.373
+6,Metro – Front St E,Beverages,Almond Milk,2023-10-05,2023-11-17,27,liters,43.6491,-79.373
+2,Anthony’s No Frills,Bakery,Cinnamon Rolls,2025-04-07,2025-04-14,18,pieces,43.6377,-79.4365
+9,Sobeys – The Queensway,Meat,Chicken Breasts,2025-04-08,2025-04-11,15,kg,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Seafood,Shrimp,2025-04-08,2025-04-10,34,packs,43.6392,-79.3905
+6,Metro – Front St E,Produce,Carrots,2023-10-05,2023-10-08,2,kg,43.6491,-79.373
+3,Joe’s No Frills,Fruits,Grapes,2025-04-07,2025-04-17,15,pieces,43.6595,-79.435
+3,Joe’s No Frills,Fish & Seafood,Cod,2025-04-07,2025-04-12,8,kg,43.6595,-79.435
+1,Jordan’s No Frills,Frozen,Frozen Berries,2025-04-07,2026-03-25,36,kg,43.6406,-79.4205
+5,Loblaws – Dundas St W,Produce,Apples,2025-04-07,2025-04-16,26,Liters,43.6542,-79.45
+3,Joe’s No Frills,Fish & Seafood,Shrimp,2025-04-07,2025-04-14,5,lb,43.6595,-79.435
+2,Anthony’s No Frills,Pantry,Sugar,2025-04-07,2025-10-01,55,kg,43.6377,-79.4365
+7,Metro – Ossington Ave,Seafood,Fresh Tuna,2023-10-05,2023-10-08,21,kg,43.6485,-79.4205
+5,Loblaws – Dundas St W,Produce,Carrots,2025-04-07,2025-04-13,45,Kg,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Frozen,Açaí Packs,2025-04-08,2025-07-01,10,packs,43.673,-79.48
+1,Jordan’s No Frills,Canned,Tomato Sauce,2025-04-07,2026-01-24,1,units,43.6406,-79.4205
+4,Loblaws – Dupont St,Beverages,Tea,2025-04-07,2025-06-05,17,liters,43.671,-79.4202
+5,Loblaws – Dundas St W,Snacks,Chips,2025-04-07,2025-08-02,31,Kg,43.6542,-79.45
+4,Loblaws – Dupont St,Beverages,Coffee,2025-04-07,2025-05-12,8,liters,43.671,-79.4202
+9,Sobeys – The Queensway,Beverages,Coconut Water,2025-04-08,2025-05-20,8,bottles,43.636,-79.485
+3,Joe’s No Frills,Vegetables,Cucumbers,2025-04-07,2025-04-22,28,bunches,43.6595,-79.435
+4,Loblaws – Dupont St,Dairy,Butter,2025-04-07,2025-04-13,17,liters,43.671,-79.4202
+1,Jordan’s No Frills,Dairy,Cream,2025-04-07,2025-04-15,26,containers,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Bakery,Pita Bread,2025-04-08,2025-04-11,10,packs,43.673,-79.48
+4,Loblaws – Dupont St,Seafood,Shrimp,2025-04-07,2025-04-09,38,Kg,43.671,-79.4202
+9,Sobeys – The Queensway,Packaged,Salsa,2025-04-08,2025-05-10,8,jars,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Cheese,2025-04-08,2025-04-11,42,kg,43.6392,-79.3905
+9,Sobeys – The Queensway,Packaged,Rice,2025-04-08,2025-06-07,22,kg,43.636,-79.485
+7,Metro – Ossington Ave,Produce,Spinach,2023-10-05,2023-10-08,22,kg,43.6485,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Produce,Snow Peas,2025-04-08,2025-04-10,12,kg,43.673,-79.48
+1,Jordan’s No Frills,Frozen,Ice Cream,2025-04-07,2025-07-16,32,units,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Produce,Butter Lettuce,2025-04-08,2025-04-11,13,heads,43.673,-79.48
+3,Joe’s No Frills,Meat,Chicken Breast,2025-04-07,2025-04-14,9,lb,43.6595,-79.435
+3,Joe’s No Frills,Canned Goods,Pasta Sauce,2025-04-07,2027-06-04,47,cans,43.6595,-79.435
+5,Loblaws – Dundas St W,Seafood,Salmon,2025-04-07,2025-04-08,21,Kg,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Beverages,Protein Shakes,2025-04-08,2025-05-28,20,bottles,43.673,-79.48
+1,Jordan’s No Frills,Frozen,Pizza,2025-04-07,2026-02-24,34,units,43.6406,-79.4205
+7,Metro – Ossington Ave,Bakery,Croissants,2023-10-05,2023-10-06,16,pieces,43.6485,-79.4205
+5,Loblaws – Dundas St W,Beverages,Juice,2025-04-07,2025-06-26,20,Liters,43.6542,-79.45
+7,Metro – Ossington Ave,Packaged,Cereal,2023-10-05,2023-10-20,26,packs,43.6485,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Beef,2025-04-08,2025-04-10,44,liters,43.6392,-79.3905
+2,Anthony’s No Frills,Bakery,Pies,2025-04-07,2025-04-16,12,pieces,43.6377,-79.4365
+2,Anthony’s No Frills,Pantry,Olive Oil,2025-04-07,2025-11-01,10,liters,43.6377,-79.4365
+3,Joe’s No Frills,Fruits,Avocados,2025-04-07,2025-04-21,10,lb,43.6595,-79.435
+5,Loblaws – Dundas St W,Bakery,Bread,2025-04-07,2025-04-19,9,Kg,43.6542,-79.45
+6,Metro – Front St E,Beverages,Orange Juice,2023-10-05,2023-11-30,14,liters,43.6491,-79.373
+4,Loblaws – Dupont St,Dairy,Milk,2025-04-07,2025-04-10,33,liters,43.671,-79.4202
+1,Jordan’s No Frills,Meat,Ground Beef,2025-04-07,2025-04-09,14,packages,43.6406,-79.4205
+6,Metro – Front St E,Bakery,Blueberry Muffins,2023-10-05,2023-10-09,4,pieces,43.6491,-79.373
+2,Anthony’s No Frills,Produce,Broccoli,2025-04-07,2025-04-13,28,kg,43.6377,-79.4365
+1,Jordan’s No Frills,Frozen,Mixed Vegetables,2025-04-07,2025-10-12,16,packages,43.6406,-79.4205
+5,Loblaws – Dundas St W,Seafood,Tuna,2025-04-07,2025-04-16,48,Kg,43.6542,-79.45
+2,Anthony’s No Frills,Dairy,Butter,2025-04-07,2025-05-05,15,kg,43.6377,-79.4365
+10,Walmart Supercentre – St Clair Ave W,Beverages,Hot Cocoa Mix,2025-04-08,2025-06-10,8,boxes,43.673,-79.48
+4,Loblaws – Dupont St,Beverages,Coffee,2025-04-07,2025-05-16,46,liters,43.671,-79.4202
+2,Anthony’s No Frills,Bakery,Cupcakes,2025-04-07,2025-04-13,20,pieces,43.6377,-79.4365
+2,Anthony’s No Frills,Bakery,Bread,2025-04-07,2025-04-10,25,packs,43.6377,-79.4365
+1,Jordan’s No Frills,Frozen,Mixed Vegetables,2025-04-07,2025-09-27,6,kg,43.6406,-79.4205
+4,Loblaws – Dupont St,Produce,Oranges,2025-04-07,2025-04-13,41,Kg,43.671,-79.4202
+5,Loblaws – Dundas St W,Dairy,Yogurt,2025-04-07,2025-04-18,9,Units,43.6542,-79.45
+7,Metro – Ossington Ave,Beverages,Orange Juice,2023-10-05,2023-10-26,36,liters,43.6485,-79.4205
+3,Joe’s No Frills,Vegetables,Spinach,2025-04-07,2025-04-21,13,lb,43.6595,-79.435
+6,Metro – Front St E,Packaged,Canned Kidney Beans,2023-10-05,2023-11-08,25,packs,43.6491,-79.373
+8,Sobeys Urban Fresh – Fort York Blvd,Produce,Apples,2025-04-08,2025-04-12,6,kg,43.6392,-79.3905
+5,Loblaws – Dundas St W,Produce,Bananas,2025-04-07,2025-04-12,2,Packs,43.6542,-79.45
+4,Loblaws – Dupont St,Dairy,Milk,2025-04-07,2025-04-15,28,liters,43.671,-79.4202
+4,Loblaws – Dupont St,Produce,Apples,2025-04-07,2025-04-10,36,Kg,43.671,-79.4202
+9,Sobeys – The Queensway,Produce,Carrots,2025-04-08,2025-04-13,20,kg,43.636,-79.485
+3,Joe’s No Frills,Frozen Foods,Ice Cream,2025-04-07,2025-11-20,5,packs,43.6595,-79.435
+5,Loblaws – Dundas St W,Dairy,Cheese,2025-04-07,2025-04-15,22,Packs,43.6542,-79.45
+9,Sobeys – The Queensway,Produce,Tomatoes,2025-04-08,2025-04-11,24,kg,43.636,-79.485
+1,Jordan’s No Frills,Dairy,Yogurt,2025-04-07,2025-04-21,8,containers,43.6406,-79.4205
+3,Joe’s No Frills,Fruits,Bananas,2025-04-07,2025-04-20,7,pieces,43.6595,-79.435
+3,Joe’s No Frills,Vegetables,Onions,2025-04-07,2025-04-21,25,bunches,43.6595,-79.435
+2,Anthony’s No Frills,Produce,Bananas,2025-04-07,2025-04-12,30,kg,43.6377,-79.4365
+2,Anthony’s No Frills,Frozen Foods,Frozen Peas,2025-04-07,2025-06-01,20,packs,43.6377,-79.4365
+10,Walmart Supercentre – St Clair Ave W,Bakery,Rye Bread,2025-04-08,2025-04-10,9,loaves,43.673,-79.48
+9,Sobeys – The Queensway,Produce,Mushrooms,2025-04-08,2025-04-10,8,kg,43.636,-79.485
+7,Metro – Ossington Ave,Meat,Turkey Breast,2023-10-05,2023-10-09,11,kg,43.6485,-79.4205
+5,Loblaws – Dundas St W,Meat,Chicken,2025-04-07,2025-04-16,49,Kg,43.6542,-79.45
+9,Sobeys – The Queensway,Bakery,Wheat Bread,2025-04-08,2025-04-11,16,loaves,43.636,-79.485
+3,Joe’s No Frills,Fish & Seafood,Mussels,2025-04-07,2025-04-11,7,lb,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Water,2025-04-08,2025-06-06,42,packs,43.6392,-79.3905
+6,Metro – Front St E,Bakery,Cinnamon Rolls,2023-10-05,2023-10-10,8,pieces,43.6491,-79.373
+10,Walmart Supercentre – St Clair Ave W,Packaged,Fruit Snacks,2025-04-08,2025-05-15,19,boxes,43.673,-79.48
+3,Joe’s No Frills,Meat,Ham,2025-04-07,2025-04-11,3,lb,43.6595,-79.435
+7,Metro – Ossington Ave,Produce,Bell Peppers,2023-10-05,2023-10-08,33,kg,43.6485,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Packaged,Chocolate Hazelnut Spread,2025-04-08,2025-06-05,9,jars,43.673,-79.48
+4,Loblaws – Dupont St,Beverages,Coffee,2025-04-07,2025-05-03,6,liters,43.671,-79.4202
+1,Jordan’s No Frills,Meat,Chicken Breast,2025-04-07,2025-04-10,43,kg,43.6406,-79.4205
+2,Anthony’s No Frills,Dairy,Cream Cheese,2025-04-07,2025-04-21,10,packs,43.6377,-79.4365
+1,Jordan’s No Frills,Produce,Apples,2025-04-07,2025-04-09,21,kg,43.6406,-79.4205
+4,Loblaws – Dupont St,Seafood,Shrimp,2025-04-07,2025-04-11,21,Kg,43.671,-79.4202
+3,Joe’s No Frills,Meat,Ground Beef,2025-04-07,2025-04-11,12,lb,43.6595,-79.435
+1,Jordan’s No Frills,Produce,Lettuce,2025-04-07,2025-04-19,18,units,43.6406,-79.4205
+4,Loblaws – Dupont St,Confectionery,Cookie,2025-04-07,2025-12-20,31,packs,43.671,-79.4202
+6,Metro – Front St E,Dairy,Goat Milk,2023-10-05,2023-10-10,22,liters,43.6491,-79.373
+9,Sobeys – The Queensway,Beverages,Bottled Water,2025-04-08,2025-06-10,48,bottles,43.636,-79.485
+7,Metro – Ossington Ave,Packaged,Canned Kidney Beans,2023-10-05,2023-11-07,19,packs,43.6485,-79.4205
+6,Metro – Front St E,Frozen,Vanilla Ice Cream,2023-10-05,2023-12-19,39,liters,43.6491,-79.373
+9,Sobeys – The Queensway,Dairy,Cream Cheese,2025-04-08,2025-04-13,9,packs,43.636,-79.485
+5,Loblaws – Dundas St W,Meat,Chicken,2025-04-07,2025-04-21,23,Packs,43.6542,-79.45
+5,Loblaws – Dundas St W,Meat,Chicken,2025-04-07,2025-04-16,1,Liters,43.6542,-79.45
+8,Sobeys Urban Fresh – Fort York Blvd,Produce,Apples,2025-04-08,2025-04-09,32,packs,43.6392,-79.3905
+5,Loblaws – Dundas St W,Dairy,Cheese,2025-04-07,2025-04-10,27,Units,43.6542,-79.45
+2,Anthony’s No Frills,Produce,Oranges,2025-04-07,2025-04-18,30,kg,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Water,2025-04-08,2025-05-06,7,kg,43.6392,-79.3905
+1,Jordan’s No Frills,Produce,Tomatoes,2025-04-07,2025-04-15,5,units,43.6406,-79.4205
+2,Anthony’s No Frills,Produce,Tomatoes,2025-04-07,2025-04-16,22,kg,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Seafood,Salmon,2025-04-08,2025-04-11,41,packs,43.6392,-79.3905
+9,Sobeys – The Queensway,Produce,Grapes,2025-04-08,2025-04-11,16,kg,43.636,-79.485
+1,Jordan’s No Frills,Meat,Chicken Breast,2025-04-07,2025-04-13,1,kg,43.6406,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Cereal,2025-04-08,2025-05-03,25,liters,43.6392,-79.3905
+2,Anthony’s No Frills,Meat,Chicken Breast,2025-04-07,2025-04-09,10,kg,43.6377,-79.4365
+9,Sobeys – The Queensway,Frozen,Frozen French Fries,2025-04-08,2025-06-28,15,bags,43.636,-79.485
+5,Loblaws – Dundas St W,Bakery,Croissant,2025-04-07,2025-04-16,31,Packs,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Produce,Kiwi,2025-04-08,2025-04-12,22,kg,43.673,-79.48
+9,Sobeys – The Queensway,Frozen,Ice Pops,2025-04-08,2025-06-25,12,boxes,43.636,-79.485
+1,Jordan’s No Frills,Frozen,Ice Cream,2025-04-07,2025-10-24,15,units,43.6406,-79.4205
+1,Jordan’s No Frills,Produce,Lettuce,2025-04-07,2025-04-19,45,kg,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Meat,Beef Jerky,2025-04-08,2025-05-15,11,packs,43.673,-79.48
+4,Loblaws – Dupont St,Produce,Oranges,2025-04-07,2025-04-13,46,Kg,43.671,-79.4202
+4,Loblaws – Dupont St,Confectionery,Candy,2025-04-07,2025-09-02,13,packs,43.671,-79.4202
+7,Metro – Ossington Ave,Seafood,Lobster Tail,2023-10-05,2023-10-10,19,pieces,43.6485,-79.4205
+1,Jordan’s No Frills,Canned,Baked Beans,2025-04-07,2025-12-18,23,cans,43.6406,-79.4205
+1,Jordan’s No Frills,Bakery,Bread,2025-04-07,2025-04-12,10,loaves,43.6406,-79.4205
+2,Anthony’s No Frills,Bakery,Pizza Dough,2025-04-07,2025-04-15,16,packs,43.6377,-79.4365
+3,Joe’s No Frills,Fruits,Apples,2025-04-07,2025-04-17,25,kg,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Produce,Pineapple,2025-04-08,2025-04-12,12,pieces,43.673,-79.48
+9,Sobeys – The Queensway,Beverages,Sports Drinks,2025-04-08,2025-06-01,18,bottles,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Bagel,2025-04-08,2025-04-12,26,liters,43.6392,-79.3905
+7,Metro – Ossington Ave,Seafood,Canned Tuna,2023-10-05,2023-10-10,28,packs,43.6485,-79.4205
+3,Joe’s No Frills,Fruits,Watermelon,2025-04-07,2025-04-14,2,kg,43.6595,-79.435
+5,Loblaws – Dundas St W,Produce,Apples,2025-04-07,2025-04-17,22,Kg,43.6542,-79.45
+9,Sobeys – The Queensway,Beverages,Iced Tea,2025-04-08,2025-05-20,15,bottles,43.636,-79.485
+1,Jordan’s No Frills,Dairy,Cream,2025-04-07,2025-04-20,27,liters,43.6406,-79.4205
+5,Loblaws – Dundas St W,Dairy,Yogurt,2025-04-07,2025-04-09,1,Units,43.6542,-79.45
+7,Metro – Ossington Ave,Bakery,Chocolate Cake,2023-10-05,2023-10-10,39,pieces,43.6485,-79.4205
+3,Joe’s No Frills,Meat,Meatballs,2025-04-07,2025-04-14,8,kg,43.6595,-79.435
+3,Joe’s No Frills,Meat,Ham,2025-04-07,2025-04-11,3,lb,43.6595,-79.435
+9,Sobeys – The Queensway,Packaged,Tortillas,2025-04-08,2025-04-23,10,packs,43.636,-79.485
+6,Metro – Front St E,Meat,Veal Cutlet,2023-10-05,2023-10-10,24,kg,43.6491,-79.373
+7,Metro – Ossington Ave,Packaged,Granola Bars,2023-10-05,2023-11-02,49,packs,43.6485,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Pasta,2025-04-08,2025-05-29,36,kg,43.6392,-79.3905
+6,Metro – Front St E,Meat,Smoked Ham,2023-10-05,2023-10-10,35,kg,43.6491,-79.373
+3,Joe’s No Frills,Bakery,Donuts,2025-04-07,2025-04-16,9,pieces,43.6595,-79.435
+3,Joe’s No Frills,Dairy,Eggs,2025-04-07,2025-04-16,16,pieces,43.6595,-79.435
+3,Joe’s No Frills,Vegetables,Potatoes,2025-04-07,2025-04-19,12,bunches,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Bakery,Brioche Buns,2025-04-08,2025-04-10,11,packs,43.673,-79.48
+2,Anthony’s No Frills,Meat,Bacon,2025-04-07,2025-04-13,14,packs,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Cheese,2025-04-08,2025-04-10,20,liters,43.6392,-79.3905
+1,Jordan’s No Frills,Produce,Tomatoes,2025-04-07,2025-04-19,26,bunches,43.6406,-79.4205
+6,Metro – Front St E,Meat,Turkey Breast,2023-10-05,2023-10-09,4,kg,43.6491,-79.373
+10,Walmart Supercentre – St Clair Ave W,Packaged,Dried Apricots,2025-04-08,2025-05-15,11,packs,43.673,-79.48
+2,Anthony’s No Frills,Pantry,Mustard,2025-04-07,2025-11-15,10,bottles,43.6377,-79.4365
+2,Anthony’s No Frills,Dairy,Milk,2025-04-07,2025-04-14,8,liters,43.6377,-79.4365
+7,Metro – Ossington Ave,Bakery,Bagels,2023-10-05,2023-10-10,30,pieces,43.6485,-79.4205
+3,Joe’s No Frills,Vegetables,Tomatoes,2025-04-07,2025-04-21,27,lb,43.6595,-79.435
+4,Loblaws – Dupont St,Meat,Pork,2025-04-07,2025-04-08,35,Kg,43.671,-79.4202
+1,Jordan’s No Frills,Frozen,Ice Cream,2025-04-07,2025-12-11,10,kg,43.6406,-79.4205
+2,Anthony’s No Frills,Produce,Carrots,2025-04-07,2025-04-19,38,kg,43.6377,-79.4365
+9,Sobeys – The Queensway,Meat,Deli Ham,2025-04-08,2025-04-10,7,kg,43.636,-79.485
+4,Loblaws – Dupont St,Dairy,Milk,2025-04-07,2025-04-13,11,liters,43.671,-79.4202
+7,Metro – Ossington Ave,Seafood,Canned Tuna,2023-10-05,2023-10-08,31,packs,43.6485,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Chicken,2025-04-08,2025-04-13,30,kg,43.6392,-79.3905
+2,Anthony’s No Frills,Dairy,Cheese Slices,2025-04-07,2025-04-19,15,packs,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Pasta,2025-04-08,2025-05-23,9,pieces,43.6392,-79.3905
+9,Sobeys – The Queensway,Beverages,Orange Juice,2025-04-08,2025-05-08,20,liters,43.636,-79.485
+3,Joe’s No Frills,Frozen Foods,Frozen Waffles,2025-04-07,2025-09-13,16,boxes,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Produce,Pearl Onions,2025-04-08,2025-04-13,7,kg,43.673,-79.48
+10,Walmart Supercentre – St Clair Ave W,Frozen,Frozen Dumplings,2025-04-08,2025-06-25,18,packs,43.673,-79.48
+4,Loblaws – Dupont St,Seafood,Shrimp,2025-04-07,2025-04-08,46,Kg,43.671,-79.4202
+6,Metro – Front St E,Seafood,Shrimp,2023-10-05,2023-10-06,35,kg,43.6491,-79.373
+6,Metro – Front St E,Frozen,Frozen Chicken Nuggets,2023-10-05,2023-12-12,38,packs,43.6491,-79.373
+10,Walmart Supercentre – St Clair Ave W,Dairy,Skim Milk,2025-04-08,2025-04-12,25,liters,43.673,-79.48
+7,Metro – Ossington Ave,Beverages,Green Tea,2023-10-05,2023-11-10,45,packs,43.6485,-79.4205
+1,Jordan’s No Frills,Frozen,Ice Cream,2025-04-07,2025-09-06,36,packages,43.6406,-79.4205
+4,Loblaws – Dupont St,Dairy,Yogurt,2025-04-07,2025-04-13,26,liters,43.671,-79.4202
+4,Loblaws – Dupont St,Dairy,Butter,2025-04-07,2025-04-17,25,liters,43.671,-79.4202
+4,Loblaws – Dupont St,Produce,Bananas,2025-04-07,2025-04-10,3,Kg,43.671,-79.4202
+1,Jordan’s No Frills,Produce,Bananas,2025-04-07,2025-04-18,35,bunches,43.6406,-79.4205
+9,Sobeys – The Queensway,Dairy,Butter,2025-04-08,2025-04-10,12,packs,43.636,-79.485
+3,Joe’s No Frills,Canned Goods,Canned Tuna,2025-04-07,2028-03-25,15,cans,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Bakery,Baguettes,2025-04-08,2025-04-09,18,pieces,43.673,-79.48
+1,Jordan’s No Frills,Produce,Tomatoes,2025-04-07,2025-04-17,1,bunches,43.6406,-79.4205
+3,Joe’s No Frills,Meat,Steak,2025-04-07,2025-04-12,15,kg,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Produce,Asparagus,2025-04-08,2025-04-11,16,bunches,43.673,-79.48
+9,Sobeys – The Queensway,Dairy,Greek Yogurt,2025-04-08,2025-04-11,18,packs,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Chicken,2025-04-08,2025-04-09,49,liters,43.6392,-79.3905
+4,Loblaws – Dupont St,Meat,Lamb,2025-04-07,2025-04-14,16,Kg,43.671,-79.4202
+9,Sobeys – The Queensway,Meat,Beef Steak,2025-04-08,2025-04-12,8,kg,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Bagel,2025-04-08,2025-04-10,28,kg,43.6392,-79.3905
+2,Anthony’s No Frills,Dairy,Sour Cream,2025-04-07,2025-04-20,18,packs,43.6377,-79.4365
+7,Metro – Ossington Ave,Beverages,Sparkling Water,2023-10-05,2023-11-09,36,liters,43.6485,-79.4205
+4,Loblaws – Dupont St,Confectionery,Chocolate,2025-04-07,2025-09-13,35,packs,43.671,-79.4202
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Cheese,2025-04-08,2025-04-11,44,pieces,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Dairy,Almond Yogurt,2025-04-08,2025-04-12,12,packs,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Soda,2025-04-08,2025-05-13,21,liters,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Bakery,Cheese Danish,2025-04-08,2025-04-09,16,pieces,43.673,-79.48
+4,Loblaws – Dupont St,Beverages,Soda,2025-04-07,2025-05-31,14,liters,43.671,-79.4202
+5,Loblaws – Dundas St W,Beverages,Soda,2025-04-07,2025-05-19,30,Liters,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Meat,Duck Breast,2025-04-08,2025-04-11,5,kg,43.673,-79.48
+9,Sobeys – The Queensway,Produce,Limes,2025-04-08,2025-04-12,15,pieces,43.636,-79.485
+6,Metro – Front St E,Dairy,Cream Cheese,2023-10-05,2023-10-10,27,kg,43.6491,-79.373
+7,Metro – Ossington Ave,Dairy,Cottage Cheese,2023-10-05,2023-10-10,41,kg,43.6485,-79.4205
+6,Metro – Front St E,Bakery,Tortillas,2023-10-05,2023-10-08,20,pieces,43.6491,-79.373
+3,Joe’s No Frills,Vegetables,Carrots,2025-04-07,2025-04-22,21,bunches,43.6595,-79.435
+2,Anthony’s No Frills,Meat,Chicken Thighs,2025-04-07,2025-04-11,17,kg,43.6377,-79.4365
+6,Metro – Front St E,Dairy,Whole Milk,2023-10-05,2023-10-10,6,liters,43.6491,-79.373
+2,Anthony’s No Frills,Produce,Mushrooms,2025-04-07,2025-04-15,12,kg,43.6377,-79.4365
+7,Metro – Ossington Ave,Dairy,Mozzarella Cheese,2023-10-05,2023-10-07,18,kg,43.6485,-79.4205
+5,Loblaws – Dundas St W,Snacks,Nuts,2025-04-07,2025-06-04,50,Packs,43.6542,-79.45
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Bagel,2025-04-08,2025-04-09,37,pieces,43.6392,-79.3905
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Frozen Pizza,2025-04-08,2025-06-02,1,kg,43.6392,-79.3905
+7,Metro – Ossington Ave,Produce,Bell Peppers,2023-10-05,2023-10-09,34,kg,43.6485,-79.4205
+9,Sobeys – The Queensway,Bakery,Sourdough Bread,2025-04-08,2025-04-10,14,loaves,43.636,-79.485
+4,Loblaws – Dupont St,Meat,Chicken,2025-04-07,2025-04-12,31,Kg,43.671,-79.4202
+8,Sobeys Urban Fresh – Fort York Blvd,Produce,Apples,2025-04-08,2025-04-12,17,kg,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Beverages,Ginger Beer,2025-04-08,2025-05-20,15,bottles,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Yogurt,2025-04-08,2025-04-13,26,kg,43.6392,-79.3905
+2,Anthony’s No Frills,Dairy,Whipped Cream,2025-04-07,2025-04-22,16,cans,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Ice Cream,2025-04-08,2025-05-10,24,packs,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Beverages,Soy Milk,2025-04-08,2025-05-18,11,liters,43.673,-79.48
+3,Joe’s No Frills,Meat,Chicken Breast,2025-04-07,2025-04-14,9,lb,43.6595,-79.435
+7,Metro – Ossington Ave,Meat,Sausages,2023-10-05,2023-10-10,18,kg,43.6485,-79.4205
+1,Jordan’s No Frills,Meat,Ground Beef,2025-04-07,2025-04-13,2,packages,43.6406,-79.4205
+2,Anthony’s No Frills,Seafood,Crab,2025-04-07,2025-04-09,5,kg,43.6377,-79.4365
+1,Jordan’s No Frills,Canned,Tomato Sauce,2025-04-07,2025-08-29,32,cans,43.6406,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Soda,2025-04-08,2025-05-13,8,packs,43.6392,-79.3905
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Beef,2025-04-08,2025-04-11,1,kg,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Frozen,Edamame,2025-04-08,2025-06-18,9,bags,43.673,-79.48
+3,Joe’s No Frills,Canned Goods,Chickpeas,2025-04-07,2027-04-01,47,packs,43.6595,-79.435
+2,Anthony’s No Frills,Bakery,Croissants,2025-04-07,2025-04-09,18,packs,43.6377,-79.4365
+10,Walmart Supercentre – St Clair Ave W,Dairy,Feta Cheese,2025-04-08,2025-04-13,10,packs,43.673,-79.48
+6,Metro – Front St E,Produce,Spinach,2023-10-05,2023-10-09,12,kg,43.6491,-79.373
+1,Jordan’s No Frills,Dairy,Cheese,2025-04-07,2025-04-20,41,liters,43.6406,-79.4205
+5,Loblaws – Dundas St W,Seafood,Shrimp,2025-04-07,2025-04-21,16,Kg,43.6542,-79.45
+1,Jordan’s No Frills,Dairy,Milk,2025-04-07,2025-04-09,3,liters,43.6406,-79.4205
+2,Anthony’s No Frills,Bakery,Cookies,2025-04-07,2025-04-15,30,packs,43.6377,-79.4365
+3,Joe’s No Frills,Vegetables,Cucumbers,2025-04-07,2025-04-22,28,bunches,43.6595,-79.435
+1,Jordan’s No Frills,Bakery,Bread,2025-04-07,2025-04-21,7,loaves,43.6406,-79.4205
+3,Joe’s No Frills,Meat,Chicken Breast,2025-04-07,2025-04-14,9,lb,43.6595,-79.435
+7,Metro – Ossington Ave,Meat,Lamb Leg,2023-10-05,2023-10-07,31,kg,43.6485,-79.4205
+6,Metro – Front St E,Seafood,Tilapia,2023-10-05,2023-10-06,44,kg,43.6491,-79.373
+5,Loblaws – Dundas St W,Bakery,Bagel,2025-04-07,2025-04-15,16,Units,43.6542,-79.45
+9,Sobeys – The Queensway,Beverages,Almond Milk,2025-04-08,2025-05-10,12,liters,43.636,-79.485
+1,Jordan’s No Frills,Frozen,Pizza,2025-04-07,2026-01-21,27,kg,43.6406,-79.4205
+1,Jordan’s No Frills,Meat,Pork Chops,2025-04-07,2025-04-16,17,packages,43.6406,-79.4205
+1,Jordan’s No Frills,Produce,Apples,2025-04-07,2025-04-17,3,bunches,43.6406,-79.4205
+5,Loblaws – Dundas St W,Seafood,Shrimp,2025-04-07,2025-04-08,2,Liters,43.6542,-79.45
+7,Metro – Ossington Ave,Bakery,Pita Bread,2023-10-05,2023-10-07,23,pieces,43.6485,-79.4205
+6,Metro – Front St E,Produce,Red Grapes,2023-10-05,2023-10-07,28,kg,43.6491,-79.373
+3,Joe’s No Frills,Fruits,Grapes,2025-04-07,2025-04-17,15,pieces,43.6595,-79.435
+1,Jordan’s No Frills,Bakery,Croissants,2025-04-07,2025-04-20,31,units,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Frozen,Frozen Breakfast Bowls,2025-04-08,2025-06-12,16,packs,43.673,-79.48
+5,Loblaws – Dundas St W,Dairy,Cheese,2025-04-07,2025-04-18,49,Units,43.6542,-79.45
+9,Sobeys – The Queensway,Produce,Bananas,2025-04-08,2025-04-12,28,kg,43.636,-79.485
+7,Metro – Ossington Ave,Frozen,Frozen Broccoli,2023-10-05,2023-12-17,11,packs,43.6485,-79.4205
+5,Loblaws – Dundas St W,Snacks,Cookies,2025-04-07,2025-09-16,28,Kg,43.6542,-79.45
+5,Loblaws – Dundas St W,Meat,Beef,2025-04-07,2025-04-13,7,Packs,43.6542,-79.45
+1,Jordan’s No Frills,Bakery,Baguettes,2025-04-07,2025-04-08,4,units,43.6406,-79.4205
+3,Joe’s No Frills,Fruits,Avocados,2025-04-07,2025-04-21,10,lb,43.6595,-79.435
+6,Metro – Front St E,Seafood,Tilapia,2023-10-05,2023-10-09,44,kg,43.6491,-79.373
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Cheese,2025-04-08,2025-04-11,49,liters,43.6392,-79.3905
+7,Metro – Ossington Ave,Dairy,Whole Milk,2023-10-05,2023-10-10,50,liters,43.6485,-79.4205
+2,Anthony’s No Frills,Seafood,Shrimp,2025-04-07,2025-04-10,10,kg,43.6377,-79.4365
+2,Anthony’s No Frills,Meat,Salami,2025-04-07,2025-04-14,11,packs,43.6377,-79.4365
+3,Joe’s No Frills,Canned Goods,Chickpeas,2025-04-07,2027-04-01,47,packs,43.6595,-79.435
+7,Metro – Ossington Ave,Bakery,Chocolate Cake,2023-10-05,2023-10-10,41,pieces,43.6485,-79.4205
+4,Loblaws – Dupont St,Bakery,Bread,2025-04-07,2025-04-09,4,packs,43.671,-79.4202
+7,Metro – Ossington Ave,Bakery,Blueberry Muffins,2023-10-05,2023-10-09,14,pieces,43.6485,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Bakery,Lemon Tart,2025-04-08,2025-04-09,6,tarts,43.673,-79.48
+6,Metro – Front St E,Packaged,Spaghetti,2023-10-05,2023-11-09,15,packs,43.6491,-79.373
+5,Loblaws – Dundas St W,Seafood,Tuna,2025-04-07,2025-04-21,13,Kg,43.6542,-79.45
+1,Jordan’s No Frills,Meat,Chicken Breast,2025-04-07,2025-04-10,36,kg,43.6406,-79.4205
+7,Metro – Ossington Ave,Beverages,Sparkling Water,2023-10-05,2023-11-12,42,liters,43.6485,-79.4205
+6,Metro – Front St E,Meat,Veal Cutlet,2023-10-05,2023-10-07,46,kg,43.6491,-79.373
+7,Metro – Ossington Ave,Seafood,Cod Fillet,2023-10-05,2023-10-07,34,kg,43.6485,-79.4205
+3,Joe’s No Frills,Meat,Bacon,2025-04-07,2025-04-10,8,packs,43.6595,-79.435
+6,Metro – Front St E,Dairy,Mozzarella Cheese,2023-10-05,2023-10-08,36,kg,43.6491,-79.373
+7,Metro – Ossington Ave,Seafood,Mussels,2023-10-05,2023-10-06,37,kg,43.6485,-79.4205
+6,Metro – Front St E,Seafood,Clams,2023-10-05,2023-10-06,29,kg,43.6491,-79.373
+10,Walmart Supercentre – St Clair Ave W,Packaged,Farro,2025-04-08,2025-05-30,8,kg,43.673,-79.48
+1,Jordan’s No Frills,Produce,Lettuce,2025-04-07,2025-04-08,49,bunches,43.6406,-79.4205
+4,Loblaws – Dupont St,Produce,Apples,2025-04-07,2025-04-13,17,Kg,43.671,-79.4202
+9,Sobeys – The Queensway,Produce,Watermelon,2025-04-08,2025-04-12,6,pieces,43.636,-79.485
+5,Loblaws – Dundas St W,Dairy,Yogurt,2025-04-07,2025-04-16,31,Packs,43.6542,-79.45
+2,Anthony’s No Frills,Bakery,Baguette,2025-04-07,2025-04-12,15,loaves,43.6377,-79.4365
+6,Metro – Front St E,Bakery,Tortillas,2023-10-05,2023-10-07,10,pieces,43.6491,-79.373
+6,Metro – Front St E,Produce,Bananas,2023-10-05,2023-10-07,30,kg,43.6491,-79.373
+5,Loblaws – Dundas St W,Seafood,Salmon,2025-04-07,2025-04-17,32,Kg,43.6542,-79.45
+6,Metro – Front St E,Meat,Sausages,2023-10-05,2023-10-07,2,kg,43.6491,-79.373
+5,Loblaws – Dundas St W,Snacks,Nuts,2025-04-07,2025-09-16,33,Liters,43.6542,-79.45
+9,Sobeys – The Queensway,Produce,Avocados,2025-04-08,2025-04-10,15,pieces,43.636,-79.485
+7,Metro – Ossington Ave,Packaged,Potato Chips,2023-10-05,2023-11-29,41,packs,43.6485,-79.4205
+5,Loblaws – Dundas St W,Produce,Bananas,2025-04-07,2025-04-08,11,Units,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Frozen,Frozen Lasagna,2025-04-08,2025-06-30,7,trays,43.673,-79.48
+5,Loblaws – Dundas St W,Dairy,Yogurt,2025-04-07,2025-04-19,23,Liters,43.6542,-79.45
+7,Metro – Ossington Ave,Frozen,Frozen Blueberries,2023-10-05,2023-11-24,36,packs,43.6485,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Orange Juice,2025-04-08,2025-05-21,49,liters,43.6392,-79.3905
+3,Joe’s No Frills,Meat,Steak,2025-04-07,2025-04-12,15,kg,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Soda,2025-04-08,2025-05-23,31,kg,43.6392,-79.3905
+4,Loblaws – Dupont St,Bakery,Donut,2025-04-07,2025-04-09,16,packs,43.671,-79.4202
+4,Loblaws – Dupont St,Seafood,Shrimp,2025-04-07,2025-04-12,50,Kg,43.671,-79.4202
+4,Loblaws – Dupont St,Bakery,Donut,2025-04-07,2025-04-08,46,packs,43.671,-79.4202
+4,Loblaws – Dupont St,Beverages,Water,2025-04-07,2025-05-29,15,liters,43.671,-79.4202
+1,Jordan’s No Frills,Canned,Tomato Sauce,2025-04-07,2025-09-22,1,units,43.6406,-79.4205
+3,Joe’s No Frills,Fish & Seafood,Cod,2025-04-07,2025-04-12,8,kg,43.6595,-79.435
+4,Loblaws – Dupont St,Bakery,Muffin,2025-04-07,2025-04-09,33,packs,43.671,-79.4202
+4,Loblaws – Dupont St,Meat,Beef,2025-04-07,2025-04-13,8,Kg,43.671,-79.4202
+2,Anthony’s No Frills,Dairy,Yogurt,2025-04-07,2025-04-18,20,packs,43.6377,-79.4365
+6,Metro – Front St E,Bakery,Croissants,2023-10-05,2023-10-07,9,pieces,43.6491,-79.373
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Beef,2025-04-08,2025-04-12,6,liters,43.6392,-79.3905
+5,Loblaws – Dundas St W,Meat,Chicken,2025-04-07,2025-04-08,7,Kg,43.6542,-79.45
+3,Joe’s No Frills,Frozen Foods,Ice Cream,2025-04-07,2025-11-20,5,packs,43.6595,-79.435
+3,Joe’s No Frills,Canned Goods,Tomato Soup,2025-04-07,2026-08-02,38,packs,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Seafood,Sea Bass,2025-04-08,2025-04-10,7,kg,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Rice,2025-04-08,2025-05-13,29,kg,43.6392,-79.3905
+4,Loblaws – Dupont St,Beverages,Soda,2025-04-07,2025-05-04,9,liters,43.671,-79.4202
+3,Joe’s No Frills,Vegetables,Cucumbers,2025-04-07,2025-04-22,28,bunches,43.6595,-79.435
+7,Metro – Ossington Ave,Packaged,Penne Pasta,2023-10-05,2023-11-21,23,packs,43.6485,-79.4205
+4,Loblaws – Dupont St,Beverages,Tea,2025-04-07,2025-04-28,19,liters,43.671,-79.4202
+1,Jordan’s No Frills,Canned,Vegetable Soup,2025-04-07,2025-08-19,44,cans,43.6406,-79.4205
+5,Loblaws – Dundas St W,Dairy,Yogurt,2025-04-07,2025-04-19,41,Packs,43.6542,-79.45
+3,Joe’s No Frills,Fruits,Blueberries,2025-04-07,2025-04-21,5,pieces,43.6595,-79.435
+3,Joe’s No Frills,Vegetables,Lettuce,2025-04-07,2025-04-19,12,lb,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Water,2025-04-08,2025-05-19,8,pieces,43.6392,-79.3905
+3,Joe’s No Frills,Canned Goods,Canned Peaches,2025-04-07,2026-05-29,21,packs,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Soda,2025-04-08,2025-04-27,29,kg,43.6392,-79.3905
+4,Loblaws – Dupont St,Produce,Oranges,2025-04-07,2025-04-11,2,Kg,43.671,-79.4202
+7,Metro – Ossington Ave,Bakery,Naan Bread,2023-10-05,2023-10-10,8,pieces,43.6485,-79.4205
+3,Joe’s No Frills,Fish & Seafood,Tilapia,2025-04-07,2025-04-09,11,lb,43.6595,-79.435
+1,Jordan’s No Frills,Canned,Baked Beans,2025-04-07,2025-07-20,9,cans,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Produce,Spinach,2025-04-08,2025-04-10,20,packs,43.673,-79.48
+2,Anthony’s No Frills,Bakery,Rolls,2025-04-07,2025-04-09,20,packs,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Pasta,2025-04-08,2025-05-13,47,liters,43.6392,-79.3905
+8,Sobeys Urban Fresh – Fort York Blvd,Seafood,Salmon,2025-04-08,2025-04-12,29,pieces,43.6392,-79.3905
+1,Jordan’s No Frills,Produce,Apples,2025-04-07,2025-04-16,6,units,43.6406,-79.4205
+3,Joe’s No Frills,Vegetables,Potatoes,2025-04-07,2025-04-19,12,bunches,43.6595,-79.435
+4,Loblaws – Dupont St,Bakery,Muffin,2025-04-07,2025-04-10,28,packs,43.671,-79.4202
+10,Walmart Supercentre – St Clair Ave W,Frozen,Frozen Spring Rolls,2025-04-08,2025-06-18,14,packs,43.673,-79.48
+1,Jordan’s No Frills,Bakery,Donuts,2025-04-07,2025-04-21,7,dozens,43.6406,-79.4205
+6,Metro – Front St E,Bakery,Chocolate Cake,2023-10-05,2023-10-10,28,pieces,43.6491,-79.373
+6,Metro – Front St E,Seafood,Mussels,2023-10-05,2023-10-08,4,kg,43.6491,-79.373
+3,Joe’s No Frills,Fruits,Peaches,2025-04-07,2025-04-21,9,lb,43.6595,-79.435
+7,Metro – Ossington Ave,Seafood,Shrimp,2023-10-05,2023-10-09,46,kg,43.6485,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Packaged,Canned Tuna,2025-04-08,2025-06-05,30,cans,43.673,-79.48
+9,Sobeys – The Queensway,Packaged,Pancake Mix,2025-04-08,2025-05-25,8,boxes,43.636,-79.485
+10,Walmart Supercentre – St Clair Ave W,Meat,Italian Sausage,2025-04-08,2025-04-11,12,packs,43.673,-79.48
+6,Metro – Front St E,Frozen,Ice Cream Sandwiches,2023-10-05,2023-11-24,47,packs,43.6491,-79.373
+3,Joe’s No Frills,Vegetables,Carrots,2025-04-07,2025-04-22,21,bunches,43.6595,-79.435
+1,Jordan’s No Frills,Dairy,Butter,2025-04-07,2025-04-13,47,containers,43.6406,-79.4205
+6,Metro – Front St E,Packaged,Peanut Butter,2023-10-05,2023-10-24,46,packs,43.6491,-79.373
+8,Sobeys Urban Fresh – Fort York Blvd,Produce,Apples,2025-04-08,2025-04-12,45,liters,43.6392,-79.3905
+1,Jordan’s No Frills,Produce,Carrots,2025-04-07,2025-04-17,14,bunches,43.6406,-79.4205
+9,Sobeys – The Queensway,Packaged,Cereal,2025-04-08,2025-05-25,15,boxes,43.636,-79.485
+2,Anthony’s No Frills,Pantry,Flour,2025-04-07,2025-09-01,40,kg,43.6377,-79.4365
+5,Loblaws – Dundas St W,Dairy,Milk,2025-04-07,2025-04-18,10,Units,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Packaged,Coconut Milk,2025-04-08,2025-05-25,13,cans,43.673,-79.48
+10,Walmart Supercentre – St Clair Ave W,Produce,Radicchio,2025-04-08,2025-04-11,5,heads,43.673,-79.48
+4,Loblaws – Dupont St,Beverages,Coffee,2025-04-07,2025-04-22,3,liters,43.671,-79.4202
+4,Loblaws – Dupont St,Confectionery,Chocolate,2025-04-07,2025-09-03,15,packs,43.671,-79.4202
+9,Sobeys – The Queensway,Produce,Broccoli,2025-04-08,2025-04-12,18,kg,43.636,-79.485
+5,Loblaws – Dundas St W,Seafood,Shrimp,2025-04-07,2025-04-09,30,Kg,43.6542,-79.45
+9,Sobeys – The Queensway,Produce,Onions,2025-04-08,2025-04-13,25,kg,43.636,-79.485
+2,Anthony’s No Frills,Meat,Ground Beef,2025-04-07,2025-04-09,12,kg,43.6377,-79.4365
+6,Metro – Front St E,Produce,Gala Apples,2023-10-05,2023-10-10,34,kg,43.6491,-79.373
+3,Joe’s No Frills,Fish & Seafood,Salmon Fillet,2025-04-07,2025-04-09,4,kg,43.6595,-79.435
+9,Sobeys – The Queensway,Packaged,Canned Soup,2025-04-08,2025-06-15,26,cans,43.636,-79.485
+3,Joe’s No Frills,Fruits,Oranges,2025-04-07,2025-04-10,2,lb,43.6595,-79.435
+7,Metro – Ossington Ave,Packaged,Quinoa,2023-10-05,2023-12-02,18,kg,43.6485,-79.4205
+1,Jordan’s No Frills,Canned,Tomato Sauce,2025-04-07,2025-11-03,13,cans,43.6406,-79.4205
+5,Loblaws – Dundas St W,Bakery,Croissant,2025-04-07,2025-04-15,46,Liters,43.6542,-79.45
+4,Loblaws – Dupont St,Produce,Apples,2025-04-07,2025-04-14,17,Kg,43.671,-79.4202
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Croissant,2025-04-08,2025-04-10,50,packs,43.6392,-79.3905
+5,Loblaws – Dundas St W,Produce,Apples,2025-04-07,2025-04-13,50,Liters,43.6542,-79.45
+7,Metro – Ossington Ave,Frozen,Pepperoni Pizza,2023-10-05,2023-11-20,49,pieces,43.6485,-79.4205
+6,Metro – Front St E,Meat,Ham,2023-10-05,2023-10-10,22,kg,43.6491,-79.373
+3,Joe’s No Frills,Fish & Seafood,Mussels,2025-04-07,2025-04-11,7,lb,43.6595,-79.435
+3,Joe’s No Frills,Frozen Foods,Frozen Pizza,2025-04-07,2025-11-12,14,packs,43.6595,-79.435
+1,Jordan’s No Frills,Canned,Baked Beans,2025-04-07,2025-09-28,28,cans,43.6406,-79.4205
+2,Anthony’s No Frills,Meat,Steak Mince,2025-04-07,2025-04-10,16,kg,43.6377,-79.4365
+5,Loblaws – Dundas St W,Beverages,Water,2025-04-07,2025-09-26,33,Liters,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Seafood,Clams,2025-04-08,2025-04-09,6,kg,43.673,-79.48
+10,Walmart Supercentre – St Clair Ave W,Produce,Passion Fruit,2025-04-08,2025-04-12,9,pieces,43.673,-79.48
+5,Loblaws – Dundas St W,Snacks,Cookies,2025-04-07,2025-07-30,31,Packs,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Frozen,Ice Cream Sandwiches,2025-04-08,2025-06-28,12,boxes,43.673,-79.48
+10,Walmart Supercentre – St Clair Ave W,Seafood,Sardines,2025-04-08,2025-04-10,12,kg,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Croissant,2025-04-08,2025-04-09,46,liters,43.6392,-79.3905
+1,Jordan’s No Frills,Meat,Pork Chops,2025-04-07,2025-04-14,7,packages,43.6406,-79.4205
+3,Joe’s No Frills,Fruits,Apples,2025-04-07,2025-04-17,25,kg,43.6595,-79.435
+10,Walmart Supercentre – St Clair Ave W,Packaged,Popcorn,2025-04-08,2025-05-23,15,bags,43.673,-79.48
+1,Jordan’s No Frills,Produce,Tomatoes,2025-04-07,2025-04-14,47,units,43.6406,-79.4205
+9,Sobeys – The Queensway,Meat,Pork Chops,2025-04-08,2025-04-11,12,kg,43.636,-79.485
+6,Metro – Front St E,Dairy,Ricotta Cheese,2023-10-05,2023-10-08,49,kg,43.6491,-79.373
+3,Joe’s No Frills,Fruits,Apples,2025-04-07,2025-04-17,25,kg,43.6595,-79.435
+3,Joe’s No Frills,Dairy,Butter,2025-04-07,2025-04-16,16,gallons,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Seafood,Shrimp,2025-04-08,2025-04-10,25,packs,43.6392,-79.3905
+1,Jordan’s No Frills,Bakery,Bread,2025-04-07,2025-04-15,1,loaves,43.6406,-79.4205
+7,Metro – Ossington Ave,Meat,Ham,2023-10-05,2023-10-10,2,kg,43.6485,-79.4205
+9,Sobeys – The Queensway,Bakery,Apple Pie,2025-04-08,2025-04-10,5,pies,43.636,-79.485
+5,Loblaws – Dundas St W,Beverages,Water,2025-04-07,2025-09-13,37,Packs,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Meat,Veal Cutlets,2025-04-08,2025-04-10,6,kg,43.673,-79.48
+2,Anthony’s No Frills,Frozen Foods,Frozen Pizza,2025-04-07,2025-05-15,10,boxes,43.6377,-79.4365
+7,Metro – Ossington Ave,Produce,Carrots,2023-10-05,2023-10-07,6,kg,43.6485,-79.4205
+6,Metro – Front St E,Meat,Pork Tenderloin,2023-10-05,2023-10-07,1,kg,43.6491,-79.373
+3,Joe’s No Frills,Frozen Foods,Frozen Vegetables,2025-04-07,2026-03-26,10,boxes,43.6595,-79.435
+4,Loblaws – Dupont St,Seafood,Tuna,2025-04-07,2025-04-11,25,Kg,43.671,-79.4202
+2,Anthony’s No Frills,Meat,Duck Breast,2025-04-07,2025-04-11,4,kg,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Rice,2025-04-08,2025-05-26,17,pieces,43.6392,-79.3905
+3,Joe’s No Frills,Fish & Seafood,Trout,2025-04-07,2025-04-11,12,pieces,43.6595,-79.435
+5,Loblaws – Dundas St W,Beverages,Water,2025-04-07,2025-09-26,27,Kg,43.6542,-79.45
+7,Metro – Ossington Ave,Frozen,Frozen Peas,2023-10-05,2023-12-23,30,packs,43.6485,-79.4205
+4,Loblaws – Dupont St,Seafood,Salmon,2025-04-07,2025-04-09,9,Kg,43.671,-79.4202
+5,Loblaws – Dundas St W,Bakery,Bagel,2025-04-07,2025-04-20,42,Kg,43.6542,-79.45
+9,Sobeys – The Queensway,Bakery,Croissants,2025-04-08,2025-04-09,17,pieces,43.636,-79.485
+2,Anthony’s No Frills,Pantry,Vinegar,2025-04-07,2025-12-01,8,liters,43.6377,-79.4365
+4,Loblaws – Dupont St,Seafood,Tuna,2025-04-07,2025-04-09,19,Kg,43.671,-79.4202
+2,Anthony’s No Frills,Bakery,Cakes,2025-04-07,2025-04-12,10,pieces,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Water,2025-04-08,2025-05-01,14,liters,43.6392,-79.3905
+10,Walmart Supercentre – St Clair Ave W,Packaged,Hot Sauce,2025-04-08,2025-06-02,9,bottles,43.673,-79.48
+3,Joe’s No Frills,Vegetables,Onions,2025-04-07,2025-04-21,25,bunches,43.6595,-79.435
+4,Loblaws – Dupont St,Produce,Apples,2025-04-07,2025-04-12,32,Kg,43.671,-79.4202
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Ice Cream,2025-04-08,2025-06-23,36,liters,43.6392,-79.3905
+9,Sobeys – The Queensway,Beverages,Coffee,2025-04-08,2025-06-05,10,packs,43.636,-79.485
+5,Loblaws – Dundas St W,Meat,Chicken,2025-04-07,2025-04-11,8,Kg,43.6542,-79.45
+3,Joe’s No Frills,Meat,Sausages,2025-04-07,2025-04-10,5,kg,43.6595,-79.435
+4,Loblaws – Dupont St,Meat,Beef,2025-04-07,2025-04-13,35,Kg,43.671,-79.4202
+1,Jordan’s No Frills,Bakery,Donuts,2025-04-07,2025-04-15,30,units,43.6406,-79.4205
+7,Metro – Ossington Ave,Seafood,Salmon Fillet,2023-10-05,2023-10-10,15,kg,43.6485,-79.4205
+7,Metro – Ossington Ave,Produce,Bell Peppers,2023-10-05,2023-10-08,2,kg,43.6485,-79.4205
+5,Loblaws – Dundas St W,Beverages,Juice,2025-04-07,2025-08-29,6,Kg,43.6542,-79.45
+3,Joe’s No Frills,Dairy,Sour Cream,2025-04-07,2025-04-14,19,gallons,43.6595,-79.435
+1,Jordan’s No Frills,Produce,Apples,2025-04-07,2025-04-10,33,kg,43.6406,-79.4205
+6,Metro – Front St E,Meat,Veal Cutlet,2023-10-05,2023-10-07,38,kg,43.6491,-79.373
+5,Loblaws – Dundas St W,Meat,Beef,2025-04-07,2025-04-15,34,Units,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Packaged,Dried Lentils,2025-04-08,2025-06-12,18,kg,43.673,-79.48
+3,Joe’s No Frills,Bakery,White Bread,2025-04-07,2025-04-12,4,packs,43.6595,-79.435
+3,Joe’s No Frills,Fruits,Bananas,2025-04-07,2025-04-20,7,pieces,43.6595,-79.435
+4,Loblaws – Dupont St,Seafood,Cod,2025-04-07,2025-04-12,23,Kg,43.671,-79.4202
+9,Sobeys – The Queensway,Frozen,Frozen Fish Sticks,2025-04-08,2025-06-20,9,boxes,43.636,-79.485
+9,Sobeys – The Queensway,Produce,Bell Peppers,2025-04-08,2025-04-12,16,kg,43.636,-79.485
+2,Anthony’s No Frills,Meat,Pork Chops,2025-04-07,2025-04-12,9,kg,43.6377,-79.4365
+4,Loblaws – Dupont St,Dairy,Butter,2025-04-07,2025-04-12,44,liters,43.671,-79.4202
+6,Metro – Front St E,Produce,Tomatoes,2023-10-05,2023-10-06,30,kg,43.6491,-79.373
+5,Loblaws – Dundas St W,Meat,Pork,2025-04-07,2025-04-11,46,Units,43.6542,-79.45
+9,Sobeys – The Queensway,Produce,Celery,2025-04-08,2025-04-12,12,bunches,43.636,-79.485
+10,Walmart Supercentre – St Clair Ave W,Bakery,Whole Grain Rolls,2025-04-08,2025-04-11,13,packs,43.673,-79.48
+3,Joe’s No Frills,Frozen Foods,Frozen Fries,2025-04-07,2025-10-21,6,packs,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Milk,2025-04-08,2025-04-10,11,packs,43.6392,-79.3905
+2,Anthony’s No Frills,Seafood,Tuna,2025-04-07,2025-05-15,30,cans,43.6377,-79.4365
+4,Loblaws – Dupont St,Meat,Lamb,2025-04-07,2025-04-09,20,Kg,43.671,-79.4202
+7,Metro – Ossington Ave,Dairy,Greek Yogurt,2023-10-05,2023-10-06,47,packs,43.6485,-79.4205
+5,Loblaws – Dundas St W,Produce,Apples,2025-04-07,2025-04-10,8,Packs,43.6542,-79.45
+8,Sobeys Urban Fresh – Fort York Blvd,Produce,Apples,2025-04-08,2025-04-12,4,pieces,43.6392,-79.3905
+7,Metro – Ossington Ave,Frozen,Chocolate Ice Cream,2023-10-05,2023-11-16,23,liters,43.6485,-79.4205
+2,Anthony’s No Frills,Meat,Ham,2025-04-07,2025-04-12,10,packs,43.6377,-79.4365
+1,Jordan’s No Frills,Meat,Chicken Breast,2025-04-07,2025-04-13,43,packages,43.6406,-79.4205
+5,Loblaws – Dundas St W,Meat,Pork,2025-04-07,2025-04-11,46,Packs,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Dairy,Mozzarella,2025-04-08,2025-04-11,14,packs,43.673,-79.48
+5,Loblaws – Dundas St W,Bakery,Bread,2025-04-07,2025-04-16,18,Units,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Meat,Lamb Rack,2025-04-08,2025-04-12,4,racks,43.673,-79.48
+2,Anthony’s No Frills,Dairy,Mozzarella,2025-04-07,2025-04-24,13,kg,43.6377,-79.4365
+10,Walmart Supercentre – St Clair Ave W,Packaged,Quinoa,2025-04-08,2025-05-18,14,kg,43.673,-79.48
+8,Sobeys Urban Fresh – Fort York Blvd,Meat,Chicken,2025-04-08,2025-04-12,25,kg,43.6392,-79.3905
+5,Loblaws – Dundas St W,Dairy,Milk,2025-04-07,2025-04-08,19,Liters,43.6542,-79.45
+3,Joe’s No Frills,Fruits,Blueberries,2025-04-07,2025-04-21,5,pieces,43.6595,-79.435
+3,Joe’s No Frills,Fruits,Oranges,2025-04-07,2025-04-10,2,lb,43.6595,-79.435
+1,Jordan’s No Frills,Meat,Salmon Fillets,2025-04-07,2025-04-21,30,kg,43.6406,-79.4205
+1,Jordan’s No Frills,Produce,Carrots,2025-04-07,2025-04-08,22,units,43.6406,-79.4205
+3,Joe’s No Frills,Vegetables,Tomatoes,2025-04-07,2025-04-21,27,lb,43.6595,-79.435
+6,Metro – Front St E,Produce,Romaine Lettuce,2023-10-05,2023-10-07,35,pieces,43.6491,-79.373
+2,Anthony’s No Frills,Personal Care,Shampoo,2025-04-07,2026-03-15,18,bottles,43.6377,-79.4365
+5,Loblaws – Dundas St W,Meat,Pork,2025-04-07,2025-04-11,28,Units,43.6542,-79.45
+2,Anthony’s No Frills,Dairy,Ice Cream,2025-04-07,2025-05-10,25,tubes,43.6377,-79.4365
+5,Loblaws – Dundas St W,Dairy,Cheese,2025-04-07,2025-04-16,44,Kg,43.6542,-79.45
+10,Walmart Supercentre – St Clair Ave W,Seafood,Swordfish Steaks,2025-04-08,2025-04-10,5,kg,43.673,-79.48
+5,Loblaws – Dundas St W,Produce,Carrots,2025-04-07,2025-04-08,2,Kg,43.6542,-79.45
+1,Jordan’s No Frills,Canned,Baked Beans,2025-04-07,2025-11-09,12,units,43.6406,-79.4205
+6,Metro – Front St E,Meat,Sausages,2023-10-05,2023-10-09,34,kg,43.6491,-79.373
+6,Metro – Front St E,Produce,Onions,2023-10-05,2023-10-06,49,kg,43.6491,-79.373
+7,Metro – Ossington Ave,Meat,Ham,2023-10-05,2023-10-09,17,kg,43.6485,-79.4205
+6,Metro – Front St E,Produce,Red Grapes,2023-10-05,2023-10-09,6,kg,43.6491,-79.373
+2,Anthony’s No Frills,Bakery,Sourdough Bread,2025-04-07,2025-04-11,10,loaves,43.6377,-79.4365
+4,Loblaws – Dupont St,Beverages,Water,2025-04-07,2025-04-25,27,liters,43.671,-79.4202
+2,Anthony’s No Frills,Dairy,Cheese,2025-04-07,2025-04-25,12,kg,43.6377,-79.4365
+9,Sobeys – The Queensway,Frozen,Frozen Meals,2025-04-08,2025-06-18,18,packs,43.636,-79.485
+6,Metro – Front St E,Seafood,Salmon Fillet,2023-10-05,2023-10-08,32,kg,43.6491,-79.373
+5,Loblaws – Dundas St W,Snacks,Chips,2025-04-07,2025-08-18,40,Units,43.6542,-79.45
+6,Metro – Front St E,Packaged,Peanut Butter,2023-10-05,2023-11-08,19,packs,43.6491,-79.373
+2,Anthony’s No Frills,Meat,Turkey Breast,2025-04-07,2025-04-14,11,kg,43.6377,-79.4365
+9,Sobeys – The Queensway,Seafood,Tilapia,2025-04-08,2025-04-10,7,kg,43.636,-79.485
+3,Joe’s No Frills,Fish & Seafood,Salmon Fillet,2025-04-07,2025-04-09,4,kg,43.6595,-79.435
+9,Sobeys – The Queensway,Bakery,Chocolate Muffins,2025-04-08,2025-04-10,12,packs,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Cereal,2025-04-08,2025-05-14,21,pieces,43.6392,-79.3905
+3,Joe’s No Frills,Canned Goods,Canned Peaches,2025-04-07,2026-05-29,21,packs,43.6595,-79.435
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Cheese,2025-04-08,2025-04-13,35,pieces,43.6392,-79.3905
+8,Sobeys Urban Fresh – Fort York Blvd,Seafood,Shrimp,2025-04-08,2025-04-12,46,liters,43.6392,-79.3905
+2,Anthony’s No Frills,Bakery,Muffins,2025-04-07,2025-04-11,20,packs,43.6377,-79.4365
+7,Metro – Ossington Ave,Dairy,Cream Cheese,2023-10-05,2023-10-10,23,kg,43.6485,-79.4205
+2,Anthony’s No Frills,Baby Food,Baby Formula,2025-04-07,2025-08-01,12,cans,43.6377,-79.4365
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Yogurt,2025-04-08,2025-04-13,35,pieces,43.6392,-79.3905
+3,Joe’s No Frills,Fruits,Oranges,2025-04-07,2025-04-10,2,lb,43.6595,-79.435
+9,Sobeys – The Queensway,Seafood,Mussels,2025-04-08,2025-04-09,5,kg,43.636,-79.485
+5,Loblaws – Dundas St W,Seafood,Tuna,2025-04-07,2025-04-09,41,Units,43.6542,-79.45
+1,Jordan’s No Frills,Produce,Tomatoes,2025-04-07,2025-04-16,35,kg,43.6406,-79.4205
+8,Sobeys Urban Fresh – Fort York Blvd,Dairy,Cheese,2025-04-08,2025-04-12,15,pieces,43.6392,-79.3905
+7,Metro – Ossington Ave,Meat,Lamb Leg,2023-10-05,2023-10-09,15,kg,43.6485,-79.4205
+4,Loblaws – Dupont St,Produce,Bananas,2025-04-07,2025-04-13,2,Kg,43.671,-79.4202
+7,Metro – Ossington Ave,Beverages,Cola,2023-10-05,2023-10-28,23,liters,43.6485,-79.4205
+9,Sobeys – The Queensway,Produce,Cucumbers,2025-04-08,2025-04-12,14,pieces,43.636,-79.485
+9,Sobeys – The Queensway,Bakery,Donuts,2025-04-08,2025-04-09,20,pieces,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Packaged,Pasta,2025-04-08,2025-05-18,46,packs,43.6392,-79.3905
+6,Metro – Front St E,Dairy,Ricotta Cheese,2023-10-05,2023-10-10,9,kg,43.6491,-79.373
+4,Loblaws – Dupont St,Confectionery,Gum,2025-04-07,2026-02-01,39,packs,43.671,-79.4202
+6,Metro – Front St E,Packaged,Brown Rice,2023-10-05,2023-11-30,29,kg,43.6491,-79.373
+8,Sobeys Urban Fresh – Fort York Blvd,Bakery,Bread,2025-04-08,2025-04-09,5,liters,43.6392,-79.3905
+6,Metro – Front St E,Seafood,Cod Fillet,2023-10-05,2023-10-06,49,kg,43.6491,-79.373
+7,Metro – Ossington Ave,Packaged,Potato Chips,2023-10-05,2023-11-03,15,packs,43.6485,-79.4205
+4,Loblaws – Dupont St,Produce,Bananas,2025-04-07,2025-04-13,42,Kg,43.671,-79.4202
+3,Joe’s No Frills,Fish & Seafood,Lobster Tail,2025-04-07,2025-04-11,12,kg,43.6595,-79.435
+3,Joe’s No Frills,Fish & Seafood,Mussels,2025-04-07,2025-04-11,7,lb,43.6595,-79.435
+5,Loblaws – Dundas St W,Beverages,Soda,2025-04-07,2025-05-19,37,Kg,43.6542,-79.45
+7,Metro – Ossington Ave,Produce,Romaine Lettuce,2023-10-05,2023-10-10,3,pieces,43.6485,-79.4205
+3,Joe’s No Frills,Dairy,Butter,2025-04-07,2025-04-16,16,gallons,43.6595,-79.435
+9,Sobeys – The Queensway,Frozen,Frozen Peas,2025-04-08,2025-07-05,11,bags,43.636,-79.485
+9,Sobeys – The Queensway,Meat,Ground Beef,2025-04-08,2025-04-10,18,kg,43.636,-79.485
+8,Sobeys Urban Fresh – Fort York Blvd,Beverages,Soda,2025-04-08,2025-05-26,22,packs,43.6392,-79.3905
+1,Jordan’s No Frills,Meat,Salmon Fillets,2025-04-07,2025-04-20,4,packages,43.6406,-79.4205
+10,Walmart Supercentre – St Clair Ave W,Packaged,Jarred Tomato Sauce,2025-04-08,2025-05-28,22,jars,43.673,-79.48
+6,Metro – Front St E,Meat,Bacon,2023-10-05,2023-10-06,8,kg,43.6491,-79.373
+8,Sobeys Urban Fresh – Fort York Blvd,Frozen,Frozen Vegetables,2025-04-08,2025-06-05,20,pieces,43.6392,-79.3905
+3,Joe’s No Frills,Canned Goods,Canned Pumpkin,2025-04-07,2026-12-31,40,cans,43.6595,-79.435
+9,Sobeys – The Queensway,Dairy,Cottage Cheese,2025-04-08,2025-04-11,6,tubs,43.636,-79.485
+2,Anthony’s No Frills,Beverages,Orange Juice,2025-04-07,2025-05-10,15,cartons,43.6377,-79.4365
+2,Anthony’s No Frills,Pantry,Ketchup,2025-04-07,2025-11-01,11,bottles,43.6377,-79.4365
+7,Metro – Ossington Ave,Packaged,Spaghetti,2023-10-05,2023-11-19,29,packs,43.6485,-79.4205
+6,Metro – Front St E,Frozen,Frozen Waffles,2023-10-05,2023-11-30,20,packs,43.6491,-79.373
