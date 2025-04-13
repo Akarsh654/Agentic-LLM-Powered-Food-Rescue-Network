@@ -1,0 +1,121 @@
+store_id,food_category,food_item,expiry_date,todays_date,quantity,unit
+3,Meat,Steak,2025-04-12,2025-04-07,15,kg
+3,Meat,Chicken Breast,2025-04-14,2025-04-07,9,lb
+3,Fruits,Apples,2025-04-17,2025-04-07,25,kg
+3,Fruits,Oranges,2025-04-10,2025-04-07,2,lb
+3,Bakery,Cinnamon Rolls,2025-04-13,2025-04-07,18,loaves
+3,Bakery,Whole Wheat Bread,2025-04-14,2025-04-07,3,pieces
+3,Dairy,Butter,2025-04-16,2025-04-07,16,gallons
+3,Dairy,Sour Cream,2025-04-14,2025-04-07,19,gallons
+3,Fruits,Avocados,2025-04-21,2025-04-07,10,lb
+3,Fruits,Apples,2025-04-17,2025-04-07,25,kg
+3,Frozen Foods,Ice Cream,2025-11-20,2025-04-07,5,packs
+3,Frozen Foods,Frozen Waffles,2025-09-13,2025-04-07,16,boxes
+3,Vegetables,Tomatoes,2025-04-21,2025-04-07,27,lb
+3,Vegetables,Broccoli,2025-04-17,2025-04-07,13,bunches
+3,Canned Goods,Canned Peaches,2026-05-29,2025-04-07,21,packs
+3,Canned Goods,Chickpeas,2027-04-01,2025-04-07,47,packs
+3,Meat,Pork Chops,2025-04-15,2025-04-07,2,packs
+3,Meat,Ground Beef,2025-04-11,2025-04-07,12,lb
+3,Dairy,Eggs,2025-04-16,2025-04-07,16,pieces
+3,Dairy,Yogurt,2025-04-17,2025-04-07,9,gallons
+3,Canned Goods,Baked Beans,2027-04-27,2025-04-07,42,packs
+3,Canned Goods,Canned Pumpkin,2026-12-31,2025-04-07,40,cans
+3,Fish & Seafood,Tilapia,2025-04-09,2025-04-07,11,lb
+3,Fish & Seafood,Salmon Fillet,2025-04-09,2025-04-07,4,kg
+3,Fruits,Oranges,2025-04-10,2025-04-07,2,lb
+3,Fruits,Blueberries,2025-04-21,2025-04-07,5,pieces
+3,Meat,Sausages,2025-04-10,2025-04-07,5,kg
+3,Meat,Chicken Breast,2025-04-14,2025-04-07,9,lb
+3,Fish & Seafood,Mussels,2025-04-11,2025-04-07,7,lb
+3,Fish & Seafood,Cod,2025-04-12,2025-04-07,8,kg
+3,Dairy,Butter,2025-04-16,2025-04-07,16,gallons
+3,Dairy,Yogurt,2025-04-17,2025-04-07,9,gallons
+3,Frozen Foods,Frozen Meals,2026-04-02,2025-04-07,20,packs
+3,Frozen Foods,Frozen Fries,2025-10-21,2025-04-07,6,packs
+3,Vegetables,Onions,2025-04-21,2025-04-07,25,bunches
+3,Vegetables,Carrots,2025-04-22,2025-04-07,21,bunches
+3,Fruits,Bananas,2025-04-20,2025-04-07,7,pieces
+3,Fruits,Avocados,2025-04-21,2025-04-07,10,lb
+3,Fish & Seafood,Trout,2025-04-11,2025-04-07,12,pieces
+3,Fish & Seafood,Shrimp,2025-04-14,2025-04-07,5,lb
+3,Frozen Foods,Frozen Fries,2025-10-21,2025-04-07,6,packs
+3,Frozen Foods,Frozen Vegetables,2026-03-26,2025-04-07,10,boxes
+3,Meat,Meatballs,2025-04-14,2025-04-07,8,kg
+3,Meat,Turkey,2025-04-15,2025-04-07,11,lb
+3,Fruits,Grapes,2025-04-17,2025-04-07,15,pieces
+3,Fruits,Apples,2025-04-17,2025-04-07,25,kg
+3,Canned Goods,Black Beans,2028-01-23,2025-04-07,9,cans
+3,Canned Goods,Chickpeas,2027-04-01,2025-04-07,47,packs
+3,Bakery,Whole Wheat Bread,2025-04-14,2025-04-07,3,pieces
+3,Bakery,Pita Bread,2025-04-11,2025-04-07,6,loaves
+3,Vegetables,Tomatoes,2025-04-21,2025-04-07,27,lb
+3,Vegetables,Spinach,2025-04-21,2025-04-07,13,lb
+3,Fish & Seafood,Mussels,2025-04-11,2025-04-07,7,lb
+3,Fish & Seafood,Cod,2025-04-12,2025-04-07,8,kg
+3,Vegetables,Onions,2025-04-21,2025-04-07,25,bunches
+3,Vegetables,Potatoes,2025-04-19,2025-04-07,12,bunches
+3,Fruits,Watermelon,2025-04-14,2025-04-07,2,kg
+3,Fruits,Blueberries,2025-04-21,2025-04-07,5,pieces
+3,Frozen Foods,Frozen Vegetables,2026-03-26,2025-04-07,10,boxes
+3,Frozen Foods,Ice Cream,2025-11-20,2025-04-07,5,packs
+3,Dairy,Eggs,2025-04-16,2025-04-07,16,pieces
+3,Dairy,Cottage Cheese,2025-04-30,2025-04-07,11,liters
+3,Bakery,Bagels,2025-04-19,2025-04-07,17,packs
+3,Bakery,Donuts,2025-04-16,2025-04-07,9,pieces
+3,Vegetables,Cucumbers,2025-04-22,2025-04-07,28,bunches
+3,Vegetables,Potatoes,2025-04-19,2025-04-07,12,bunches
+3,Frozen Foods,Frozen Vegetables,2026-03-26,2025-04-07,10,boxes
+3,Frozen Foods,Frozen Fish Sticks,2025-11-07,2025-04-07,20,kg
+3,Canned Goods,Canned Corn,2026-07-25,2025-04-07,24,cans
+3,Canned Goods,Tomato Soup,2026-08-02,2025-04-07,38,packs
+3,Fruits,Avocados,2025-04-21,2025-04-07,10,lb
+3,Fruits,Bananas,2025-04-20,2025-04-07,7,pieces
+3,Bakery,Bagels,2025-04-19,2025-04-07,17,packs
+3,Bakery,White Bread,2025-04-12,2025-04-07,4,packs
+3,Meat,Meatballs,2025-04-14,2025-04-07,8,kg
+3,Meat,Pork Chops,2025-04-15,2025-04-07,2,packs
+3,Fish & Seafood,Tuna Steak,2025-04-12,2025-04-07,1,pieces
+3,Fish & Seafood,Salmon Fillet,2025-04-09,2025-04-07,4,kg
+3,Meat,Ham,2025-04-11,2025-04-07,3,lb
+3,Meat,Chicken Breast,2025-04-14,2025-04-07,9,lb
+3,Fruits,Bananas,2025-04-20,2025-04-07,7,pieces
+3,Fruits,Oranges,2025-04-10,2025-04-07,2,lb
+3,Vegetables,Lettuce,2025-04-19,2025-04-07,12,lb
+3,Vegetables,Carrots,2025-04-22,2025-04-07,21,bunches
+3,Fish & Seafood,Tilapia,2025-04-09,2025-04-07,11,lb
+3,Fish & Seafood,Salmon Fillet,2025-04-09,2025-04-07,4,kg
+3,Canned Goods,Canned Tuna,2028-03-25,2025-04-07,15,cans
+3,Canned Goods,Chickpeas,2027-04-01,2025-04-07,47,packs
+3,Fruits,Grapes,2025-04-17,2025-04-07,15,pieces
+3,Fruits,Peaches,2025-04-21,2025-04-07,9,lb
+3,Canned Goods,Baked Beans,2027-04-27,2025-04-07,42,packs
+3,Canned Goods,Canned Peaches,2026-05-29,2025-04-07,21,packs
+3,Fruits,Blueberries,2025-04-21,2025-04-07,5,pieces
+3,Fruits,Avocados,2025-04-21,2025-04-07,10,lb
+3,Meat,Bacon,2025-04-10,2025-04-07,8,packs
+3,Meat,Ham,2025-04-11,2025-04-07,3,lb
+3,Fruits,Blueberries,2025-04-21,2025-04-07,5,pieces
+3,Fruits,Grapes,2025-04-17,2025-04-07,15,pieces
+3,Frozen Foods,Frozen Waffles,2025-09-13,2025-04-07,16,boxes
+3,Frozen Foods,Frozen Pizza,2025-11-12,2025-04-07,14,packs
+3,Bakery,White Bread,2025-04-12,2025-04-07,4,packs
+3,Bakery,Baguette,2025-04-12,2025-04-07,25,packs
+3,Canned Goods,Canned Tuna,2028-03-25,2025-04-07,15,cans
+3,Canned Goods,Canned Peaches,2026-05-29,2025-04-07,21,packs
+3,Vegetables,Potatoes,2025-04-19,2025-04-07,12,bunches
+3,Vegetables,Cucumbers,2025-04-22,2025-04-07,28,bunches
+3,Meat,Sausages,2025-04-10,2025-04-07,5,kg
+3,Meat,Lamb Chops,2025-04-16,2025-04-07,10,kg
+3,Vegetables,Cucumbers,2025-04-22,2025-04-07,28,bunches
+3,Vegetables,Onions,2025-04-21,2025-04-07,25,bunches
+3,Canned Goods,Pasta Sauce,2027-06-04,2025-04-07,47,cans
+3,Canned Goods,Canned Peaches,2026-05-29,2025-04-07,21,packs
+3,Meat,Steak,2025-04-12,2025-04-07,15,kg
+3,Meat,Ham,2025-04-11,2025-04-07,3,lb
+3,Bakery,Cookies,2025-04-18,2025-04-07,4,packs
+3,Bakery,Donuts,2025-04-16,2025-04-07,9,pieces
+3,Fish & Seafood,Lobster Tail,2025-04-11,2025-04-07,12,kg
+3,Fish & Seafood,Mussels,2025-04-11,2025-04-07,7,lb
+3,Vegetables,Onions,2025-04-21,2025-04-07,25,bunches
+3,Vegetables,Lettuce,2025-04-19,2025-04-07,12,lb
