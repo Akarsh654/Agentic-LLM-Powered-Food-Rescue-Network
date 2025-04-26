@@ -24,6 +24,7 @@ class RouteState(TypedDict):
     expiry_level: str
     food_banks: List[Dict]
     routes: List[Dict]
+    justification: str
 
 # ---------------------------
 # Define Functions
@@ -110,6 +111,30 @@ def get_best_routes_node(state: RouteState) -> RouteState:
     return {**state, "routes": sorted_routes}
 
 # ---------------------------
+# Define Justification Agent
+# ---------------------------
+def justification_node(state: RouteState) -> RouteState:
+    expiry_level = state['expiry_level']
+
+    if expiry_level == "red_alert":
+        justification = (
+            "The selected food banks are the closest to the location, "
+            "prioritizing minimal travel distance to ensure urgent delivery."
+        )
+    elif expiry_level == "warning":
+        justification = (
+            "The selected food banks are chosen based on the shortest travel time, "
+            "to ensure timely delivery while considering slightly less urgent needs."
+        )
+    else:
+        justification = (
+            "The selected food banks are chosen based on proximity, "
+            "as there are no urgent expiry concerns."
+        )
+
+    return {**state, "justification": justification}
+
+# ---------------------------
 # Run the Flow
 # ---------------------------
 if __name__ == "__main__":
@@ -119,10 +144,12 @@ if __name__ == "__main__":
     workflow = StateGraph(RouteState)
     workflow.add_node("query_food_banks", query_food_banks_node)
     workflow.add_node("get_routes", get_best_routes_node)
+    workflow.add_node("justify_selection", justification_node)
 
     workflow.set_entry_point("query_food_banks")
     workflow.add_edge("query_food_banks", "get_routes")
-    workflow.add_edge("get_routes", END)
+    workflow.add_edge("get_routes", "justify_selection")
+    workflow.add_edge("justify_selection", END)
 
     graph = workflow.compile()
 
@@ -136,3 +163,7 @@ if __name__ == "__main__":
         print(f"Food Bank: {r['name']}")
         print(f"Distance: {r['distance_km']} km")
         print(f"Duration: {r['duration_min']} min\n")
+
+    # Print the justification
+    print("\n--- Justification ---")
+    print(result['justification'])
