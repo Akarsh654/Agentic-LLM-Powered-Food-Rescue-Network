@@ -127,8 +127,8 @@ if __name__ == "__main__":
     graph = workflow.compile()
 
     result = graph.invoke({
-        "lat": 43.6445,
-        "lon": -79.4023,
+        "lat": 43.6485,
+        "lon": -79.4205,
         "expiry_level": "red_alert"
     })
 

@@ -1,0 +1,15 @@
+# Mapping & routing
+overpy
+geopy
+openrouteservice
+
+# LangGraph orchestration
+langgraph
+
+# LLM integration
+langchain
+huggingface-hub
+
+# Typing support
+typing-extensions
+
