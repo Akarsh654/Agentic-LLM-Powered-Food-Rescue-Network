@@ -31,7 +31,7 @@ def assign_zone(row, expiry_thresholds):
     return None
 
 def classify_items_by_expiry(df, location, expiry_thresholds=EXPIRY_THRESHOLDS):
-    store_data = df[df['store_name'] == location].copy()
+    store_data = df[df['store_name'].str.lower().str.contains(location.lower(), na=False)].copy()
     store_data['todays_date'] = pd.to_datetime(store_data['todays_date'])
     store_data['expiry_date'] = pd.to_datetime(store_data['expiry_date'])
     store_data['days_to_expiry'] = (store_data['expiry_date'] - store_data['todays_date']).dt.days
@@ -64,5 +64,5 @@ def main():
     print_zone("warning", results['warning'])
     print_zone("safe", results['safe'])
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#     main()

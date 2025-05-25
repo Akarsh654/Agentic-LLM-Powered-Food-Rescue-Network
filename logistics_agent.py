@@ -137,33 +137,33 @@ def justification_node(state: RouteState) -> RouteState:
 # ---------------------------
 # Run the Flow
 # ---------------------------
-if __name__ == "__main__":
-    # ---------------------------
-    # LangGraph Setup
-    # ---------------------------
-    workflow = StateGraph(RouteState)
-    workflow.add_node("query_food_banks", query_food_banks_node)
-    workflow.add_node("get_routes", get_best_routes_node)
-    workflow.add_node("justify_selection", justification_node)
+# if __name__ == "__main__":
+#     # ---------------------------
+#     # LangGraph Setup
+#     # ---------------------------
+#     workflow = StateGraph(RouteState)
+#     workflow.add_node("query_food_banks", query_food_banks_node)
+#     workflow.add_node("get_routes", get_best_routes_node)
+#     workflow.add_node("justify_selection", justification_node)
 
-    workflow.set_entry_point("query_food_banks")
-    workflow.add_edge("query_food_banks", "get_routes")
-    workflow.add_edge("get_routes", "justify_selection")
-    workflow.add_edge("justify_selection", END)
+#     workflow.set_entry_point("query_food_banks")
+#     workflow.add_edge("query_food_banks", "get_routes")
+#     workflow.add_edge("get_routes", "justify_selection")
+#     workflow.add_edge("justify_selection", END)
 
-    graph = workflow.compile()
+#     graph = workflow.compile()
 
-    result = graph.invoke({
-        "lat": 43.6485,
-        "lon": -79.4205,
-        "expiry_level": "red_alert"
-    })
+#     result = graph.invoke({
+#         "lat": 43.6485,
+#         "lon": -79.4205,
+#         "expiry_level": "warning"
+#     })
 
-    for r in result['routes']:
-        print(f"Food Bank: {r['name']}")
-        print(f"Distance: {r['distance_km']} km")
-        print(f"Duration: {r['duration_min']} min\n")
+#     for r in result['routes']:
+#         print(f"Food Bank: {r['name']}")
+#         print(f"Distance: {r['distance_km']} km")
+#         print(f"Duration: {r['duration_min']} min\n")
 
-    # Print the justification
-    print("\n--- Justification ---")
-    print(result['justification'])
+#     # Print the justification
+#     print("\n--- Justification ---")
+#     print(result['justification'])

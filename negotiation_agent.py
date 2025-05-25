@@ -145,33 +145,33 @@ def run_negotiation(business_info: Dict, logistics_data: Dict):
     }
     return negotiation_graph.invoke(initial_state)
 
-if __name__ == "__main__":
-    business = {"name": "Metro – Ossington Ave", "type": "grocery_store"}
-    logistics_output = {
-        "items": [
-            {"type": "Dairy - Greek Yogurt", "quantity": 5, "expiry": "2023-10-06"},
-            {"type": "Dairy - Skim Milk", "quantity": 20, "expiry": "2023-10-06"},
-            {"type": "Dairy - Greek Yogurt", "quantity": 6, "expiry": "2023-10-06"},
-            {"type": "Dairy - Sour Cream", "quantity": 18, "expiry": "2023-10-06"},
-            {"type": "Packaged - Brown Rice", "quantity": 27, "expiry": "2023-10-21"},
-            {"type": "Packaged - Cereal", "quantity": 26, "expiry": "2023-10-20"},
-            {"type": "Packaged - Granola Bars", "quantity": 49, "expiry": "2023-11-02"},
-            {"type": "Dairy - Mozzarella Cheese", "quantity": 18, "expiry": "2023-10-07"},
-            {"type": "Dairy - Greek Yogurt", "quantity": 47, "expiry": "2023-10-06"},
-            {"type": "Packaged - Potato Chips", "quantity": 15, "expiry": "2023-11-03"}
-        ],
-        "food_banks": [
-            {"name": "Parkdale Community Foodbank", "distance_m": 1830},
-            {"name": "West Lodge Tenant Run Food Bank", "distance_m": 2610}
-        ]
-    }
+# if __name__ == "__main__":
+#     business = {"name": "Metro – Ossington Ave", "type": "grocery_store"}
+#     logistics_output = {
+#         "items": [
+#             {"type": "Dairy - Greek Yogurt", "quantity": 5, "expiry": "2023-10-06"},
+#             {"type": "Dairy - Skim Milk", "quantity": 20, "expiry": "2023-10-06"},
+#             {"type": "Dairy - Greek Yogurt", "quantity": 6, "expiry": "2023-10-06"},
+#             {"type": "Dairy - Sour Cream", "quantity": 18, "expiry": "2023-10-06"},
+#             {"type": "Packaged - Brown Rice", "quantity": 27, "expiry": "2023-10-21"},
+#             {"type": "Packaged - Cereal", "quantity": 26, "expiry": "2023-10-20"},
+#             {"type": "Packaged - Granola Bars", "quantity": 49, "expiry": "2023-11-02"},
+#             {"type": "Dairy - Mozzarella Cheese", "quantity": 18, "expiry": "2023-10-07"},
+#             {"type": "Dairy - Greek Yogurt", "quantity": 47, "expiry": "2023-10-06"},
+#             {"type": "Packaged - Potato Chips", "quantity": 15, "expiry": "2023-11-03"}
+#         ],
+#         "food_banks": [
+#             {"name": "Parkdale Community Foodbank", "distance_m": 1830},
+#             {"name": "West Lodge Tenant Run Food Bank", "distance_m": 2610}
+#         ]
+#     }
     
-    result = run_negotiation(business, logistics_output)
-    print("\nFinal Outcome:")
-    print(f"Status: {result['status'].upper()}")
-    print(f"Attempts: {len(result['previous_attempts'])}")
-    for i, attempt in enumerate(result['previous_attempts'], 1):
-        print(f"\nAttempt {i}:")
-        print(f"Message: {attempt['message']}")
-        print(f"Response: {attempt['response']}")
-        print(f"Outcome: {attempt['outcome'].upper()}")
+#     result = run_negotiation(business, logistics_output)
+#     print("\nFinal Outcome:")
+#     print(f"Status: {result['status'].upper()}")
+#     print(f"Attempts: {len(result['previous_attempts'])}")
+#     for i, attempt in enumerate(result['previous_attempts'], 1):
+#         print(f"\nAttempt {i}:")
+#         print(f"Message: {attempt['message']}")
+#         print(f"Response: {attempt['response']}")
+#         print(f"Outcome: {attempt['outcome'].upper()}")
