@@ -13,3 +13,4 @@ huggingface-hub
 # Typing support
 typing-extensions
 
+python-multipart
