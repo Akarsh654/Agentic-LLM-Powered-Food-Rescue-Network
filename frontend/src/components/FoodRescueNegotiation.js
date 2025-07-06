@@ -35,7 +35,7 @@ function FoodRescueNegotiation() {
         formData.append("inventory_file", inventoryFile);
       }
       
-      const res = await axios.post("/negotiate/start", formData, {
+      const res = await axios.post("https://agentic-llm-powered-food-rescue-net-seven.vercel.app/negotiate/start", formData, {
         headers: { "Content-Type": "multipart/form-data" },
       });
       
@@ -61,7 +61,7 @@ function FoodRescueNegotiation() {
     setChat(prev => [...prev, { from: 'user', text: userInput }]);
     
     try {
-      const res = await axios.post('/negotiate/respond', {
+      const res = await axios.post('https://agentic-llm-powered-food-rescue-net-seven.vercel.app/negotiate/respond', {
         conversation_id: convId,
         owner_response: userInput
       });
