@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import './FoodRescueNegotiation.css';
 import axios from 'axios';
+// Add marked for markdown rendering
+import { marked } from 'marked';
 
 function FoodRescueNegotiation() {
   const [convId, setConvId] = useState(null);
@@ -112,6 +114,16 @@ function FoodRescueNegotiation() {
       e.preventDefault();
       sendMessage();
     }
+  };
+
+  // Helper to safely render markdown for bot messages
+  const renderBotMessage = (text) => {
+    return (
+      <div
+        className="bot-markdown"
+        dangerouslySetInnerHTML={{ __html: marked.parse(text || "") }}
+      />
+    );
   };
 
   return (
@@ -307,7 +319,10 @@ function FoodRescueNegotiation() {
               {chat.map((msg, i) => (
                 <div key={i} className={`message ${msg.from === 'bot' ? 'bot' : 'user'}`}>
                   <div className="message-content">
-                    {msg.text}
+                    {msg.from === 'bot'
+                      ? renderBotMessage(msg.text)
+                      : <span>{msg.text}</span>
+                    }
                   </div>
                 </div>
               ))}
