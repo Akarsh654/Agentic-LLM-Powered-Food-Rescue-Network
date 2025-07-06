@@ -1,27 +1,27 @@
 # Web Framework
-fastapi>=0.104.0
-uvicorn>=0.24.0
+fastapi
+uvicorn
 
 # Data Processing
-pandas>=2.0.0
+pandas
 
 # Mapping & routing
-overpy>=0.7.0
-geopy>=2.4.0
-openrouteservice>=4.0.0
+overpy
+geopy
+openrouteservice
 
 # LangGraph orchestration
-langgraph>=0.1.0
+langgraph
 
 # LLM integration
-langchain>=0.1.0
-langchain-openai>=0.1.0
+langchain
+langchain-openai
 
 # Environment variables
-python-dotenv>=1.0.0
+python-dotenv
 
 # Typing support
-typing-extensions>=4.9.0
+typing-extensions
 
 # OpenAI compatibility
-openai>=1.0.0
+openai
