@@ -10,8 +10,17 @@ from scout_agent import classify_items_by_expiry
 from logistics_agent import query_food_banks_node, get_best_routes_node
 from negotiation_agent import run_negotiation_initial, run_negotiation_step
 
+from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 conversations: Dict[str, Dict] = {}
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["https://your-frontend.vercel.app"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 class BusinessInfo(BaseModel):
     name: str
