@@ -16,7 +16,7 @@ conversations: Dict[str, Dict] = {}
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://your-frontend.vercel.app"],
+    allow_origins=["https://agentic-llm-powered-food-rescue-net-seven.vercel.app"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
