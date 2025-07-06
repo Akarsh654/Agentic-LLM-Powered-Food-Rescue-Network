@@ -10,9 +10,12 @@ from typing import TypedDict, List, Dict, Tuple
 # Environment Setup
 # ---------------------------
 load_dotenv(dotenv_path="./secrets.env")
-ORS_API_KEY = os.getenv("ORS_API_KEY")
-
-client = openrouteservice.Client(key=ORS_API_KEY)
+ors_api_key = os.getenv("ORS_API_KEY")
+if not ors_api_key:
+    raise ValueError(
+        "No ORS_API_KEY found in environment. Please set it in your secrets.env file."
+    )
+client = openrouteservice.Client(key=ors_api_key)
 api = overpy.Overpass()
 
 # ---------------------------
