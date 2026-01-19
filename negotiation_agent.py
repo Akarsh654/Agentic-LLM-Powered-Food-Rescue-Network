@@ -48,10 +48,30 @@ simulator_llm = ChatOpenAI(
 # Format Function
 # ---------------------------
 def format_items(items: List[Dict]) -> str:
-    return "\n".join([
-        f"- {item['type']}: {item['quantity']} units (expires {item['expiry']})"
-        for item in items
-    ])
+    # Group items by food type
+    grouped_items = {}
+    for item in items:
+        food_type = item['type']
+        if food_type not in grouped_items:
+            grouped_items[food_type] = []
+        grouped_items[food_type].append(item)
+    
+    # Format each group
+    formatted_items = []
+    for food_type, items_list in grouped_items.items():
+        if len(items_list) == 1:
+            formatted_items.append(
+                f"- {food_type}: {items_list[0]['quantity']} units (expires {items_list[0]['expiry']})"
+            )
+        else:
+            entries = []
+            for item in items_list:
+                entries.append(f"{item['quantity']} units (expires {item['expiry']})")
+            formatted_items.append(
+                f"- {food_type}: {', '.join(entries)}"
+            )
+    
+    return "\n".join(formatted_items)
 
 # ---------------------------
 # Negotiation Functions
@@ -75,11 +95,13 @@ Current items available:
 Nearby food banks that can accept these donations:
 {food_banks_str}
 
-Generate a professional initial message to start the negotiation process. Include:
-1. Specific food items and their expiry dates
-2. Nearby food bank options
-3. Benefits of food donation (reduced food waste, community support)
-4. Request for a meeting to discuss details"""
+Generate a professional initial message to start the negotiation process. Make sure to:
+1. Mention the specific food items and their expiry dates
+2. Name the nearby food banks explicitly: {', '.join([fb['name'] for fb in state['food_banks'][:3]])}
+3. Highlight benefits of food donation (reduced food waste, community support)
+4. Request a meeting to discuss details
+
+Important: Use the actual food bank names in the message instead of a generic placeholder like "[Your Organization's Name]". The message should be personalized to mention the specific food banks that can accept the donations."""
 
     response = primary_llm.invoke([HumanMessage(content=prompt)]).content
     return {**state, "current_message": response}

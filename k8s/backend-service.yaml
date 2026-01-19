@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: foodrescue-backend
+spec:
+  type: ClusterIP
+  selector:
+    app: foodrescue-backend
+  ports:
+    - name: http
+      port: 8000
+      targetPort: 8000

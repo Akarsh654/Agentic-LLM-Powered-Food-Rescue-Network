@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: foodrescue-backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: foodrescue-backend
+  template:
+    metadata:
+      labels:
+        app: foodrescue-backend
+    spec:
+      containers:
+        - name: backend
+          image: foodrescue-backend:local
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8000
+          env:
+            - name: ORS_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: foodrescue-backend-secrets
+                  key: ORS_API_KEY
+            - name: OPENAI_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: foodrescue-backend-secrets
+                  key: OPENAI_API_KEY
+            - name: OPENAI_API_BASE
+              valueFrom:
+                secretKeyRef:
+                  name: foodrescue-backend-secrets
+                  key: OPENAI_API_BASE

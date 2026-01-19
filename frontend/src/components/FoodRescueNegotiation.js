@@ -4,6 +4,12 @@ import axios from 'axios';
 // Add marked for markdown rendering
 import { marked } from 'marked';
 
+const API_BASE_URL = (
+  process.env.REACT_APP_API_BASE_URL ||
+  process.env.NEXT_PUBLIC_API_BASE_URL ||
+  'http://localhost:8000'
+);
+
 function FoodRescueNegotiation() {
   const [convId, setConvId] = useState(null);
   const [chat, setChat] = useState([]);
@@ -35,7 +41,7 @@ function FoodRescueNegotiation() {
         formData.append("inventory_file", inventoryFile);
       }
       
-      const res = await axios.post("https://agentic-llm-powered-food-rescue-net-seven.vercel.app/negotiate/start", formData, {
+      const res = await axios.post(`${API_BASE_URL}/negotiate/start`, formData, {
         headers: { "Content-Type": "multipart/form-data" },
       });
       
@@ -61,7 +67,7 @@ function FoodRescueNegotiation() {
     setChat(prev => [...prev, { from: 'user', text: userInput }]);
     
     try {
-      const res = await axios.post('https://agentic-llm-powered-food-rescue-net-seven.vercel.app/negotiate/respond', {
+      const res = await axios.post(`${API_BASE_URL}/negotiate/respond`, {
         conversation_id: convId,
         owner_response: userInput
       });
